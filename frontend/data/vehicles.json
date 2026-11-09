@@ -1,0 +1,484 @@
+{
+  "vehicles": [
+    {
+      "vehicleId": 1,
+      "vType": "TOYOTA VIOS (SEDAN)"
+    },
+    {
+      "vehicleId": 2,
+      "vType": "TOYOTA PRADO (AUV)"
+    },
+    {
+      "vehicleId": 3,
+      "vType": "HONDA XR-150 MOTORCYCLE (MC)"
+    },
+    {
+      "vehicleId": 4,
+      "vType": "HONDA CIVIC (SEDAN)"
+    },
+    {
+      "vehicleId": 5,
+      "vType": "HONDA JAZZ (SEDAN)"
+    },
+    {
+      "vehicleId": 6,
+      "vType": "HONDA CITY (SEDAN)"
+    },
+    {
+      "vehicleId": 7,
+      "vType": "HONDA CR-V (AUB)"
+    },
+    {
+      "vehicleId": 8,
+      "vType": "HONDA BRIO (SEDAN)"
+    },
+    {
+      "vehicleId": 9,
+      "vType": "HONDA TMX (MC)"
+    },
+    {
+      "vehicleId": 10,
+      "vType": "HONDA XRM (MC)"
+    },
+    {
+      "vehicleId": 11,
+      "vType": "HONDA XR (MC)"
+    },
+    {
+      "vehicleId": 12,
+      "vType": "HONDA WAVE (MC)"
+    },
+    {
+      "vehicleId": 13,
+      "vType": "NISSAN FRONTIER (PICK UP)"
+    },
+    {
+      "vehicleId": 14,
+      "vType": "NISSAN NAVARA (PICK UP)"
+    },
+    {
+      "vehicleId": 15,
+      "vType": "HYUNDAI TANKER (TANKER)"
+    },
+    {
+      "vehicleId": 16,
+      "vType": "HYUNDAI H-100 (TRUCK)"
+    },
+    {
+      "vehicleId": 17,
+      "vType": "HYUNDAI STAREX (VAN)"
+    },
+    {
+      "vehicleId": 18,
+      "vType": "HYUNDAI EON (SEDAN)"
+    },
+    {
+      "vehicleId": 19,
+      "vType": "HYUNDAI ACCENT (SEDAN)"
+    },
+    {
+      "vehicleId": 20,
+      "vType": "HYUNDAI TUCSON (AUV)"
+    },
+    {
+      "vehicleId": 21,
+      "vType": "HYUNDAI STAFE (AUV)"
+    },
+    {
+      "vehicleId": 22,
+      "vType": "HYUNDAI DUMP TRUCK (DT)"
+    },
+    {
+      "vehicleId": 23,
+      "vType": "HYUNDAI MIXER (TM)"
+    },
+    {
+      "vehicleId": 24,
+      "vType": "FUSO 10 WHEELER"
+    },
+    {
+      "vehicleId": 25,
+      "vType": "FUSO 6 WHEELER FORWARD"
+    },
+    {
+      "vehicleId": 26,
+      "vType": "MITSUBISHI CANTER"
+    },
+    {
+      "vehicleId": 27,
+      "vType": "MITSUBISHI L-300"
+    },
+    {
+      "vehicleId": 28,
+      "vType": "MITSUBISHI FUSO SUPER GREAT"
+    },
+    {
+      "vehicleId": 29,
+      "vType": "MITSUBISHI ESTRADA"
+    },
+    {
+      "vehicleId": 30,
+      "vType": "MITSUBISHI ADVENTURE"
+    },
+    {
+      "vehicleId": 31,
+      "vType": "MITSUBISHI 10 WHEELER"
+    },
+    {
+      "vehicleId": 32,
+      "vType": "MITSUBISHI MONTERO"
+    },
+    {
+      "vehicleId": 33,
+      "vType": "MITSUBISHI FJ"
+    },
+    {
+      "vehicleId": 34,
+      "vType": "MITSUBISHI F1"
+    },
+    {
+      "vehicleId": 35,
+      "vType": "MITSUBISHI MIRRAGE"
+    },
+    {
+      "vehicleId": 36,
+      "vType": "TOYOTA HILUX"
+    },
+    {
+      "vehicleId": 37,
+      "vType": "TOYOTA GRANDIA"
+    },
+    {
+      "vehicleId": 38,
+      "vType": "TOYOTA ALFHARD"
+    },
+    {
+      "vehicleId": 39,
+      "vType": "TOYOTA INNOVA"
+    },
+    {
+      "vehicleId": 40,
+      "vType": "TOYOTA WIGO"
+    },
+    {
+      "vehicleId": 41,
+      "vType": "TOYOTA CORROLA"
+    },
+    {
+      "vehicleId": 42,
+      "vType": "TOYOTA ALTIS"
+    },
+    {
+      "vehicleId": 43,
+      "vType": "TOYOTA CAMRY"
+    },
+    {
+      "vehicleId": 44,
+      "vType": "TOYOTA FORTUNER"
+    },
+    {
+      "vehicleId": 45,
+      "vType": "TOYOTA LAND CRUIZER"
+    },
+    {
+      "vehicleId": 46,
+      "vType": "TOYOTA HI ACE"
+    },
+    {
+      "vehicleId": 47,
+      "vType": "TOYOTA AVANZA (SEDAN)"
+    },
+    {
+      "vehicleId": 48,
+      "vType": "FORD RANGER (PICK UP)"
+    },
+    {
+      "vehicleId": 49,
+      "vType": "KIA RIO (SEDAN)"
+    },
+    {
+      "vehicleId": 50,
+      "vType": "KIA BONGGO (MULTICAB KIA PANOTAMIC)"
+    },
+    {
+      "vehicleId": 51,
+      "vType": "SUZUKI (MULTICAB)"
+    },
+    {
+      "vehicleId": 52,
+      "vType": "LEXUS RX (AUV)"
+    },
+    {
+      "vehicleId": 53,
+      "vType": "PEUGEOT 3008 (SEDAN)"
+    },
+    {
+      "vehicleId": 54,
+      "vType": "SHACMAN (BULLET TRUCK)"
+    },
+    {
+      "vehicleId": 55,
+      "vType": "INTERNATIONAL TRAILER TRUCK"
+    },
+    {
+      "vehicleId": 56,
+      "vType": "VOLVO TRACTOR HEAD (T.H)"
+    },
+    {
+      "vehicleId": 57,
+      "vType": "VOLVO PISON (H.E)"
+    },
+    {
+      "vehicleId": 58,
+      "vType": "VOLVO BACKHOE (H.E)"
+    },
+    {
+      "vehicleId": 59,
+      "vType": "MAN TRACTOR HEAP (TRUCK)"
+    },
+    {
+      "vehicleId": 60,
+      "vType": "CATTERPILLAR BACKHOE (H.E)"
+    },
+    {
+      "vehicleId": 61,
+      "vType": "CATTERPILLAR PISON (H.E)"
+    },
+    {
+      "vehicleId": 62,
+      "vType": "CATTERPILLAR GRADER (H.E)"
+    },
+    {
+      "vehicleId": 63,
+      "vType": "CATTERPILLAR CRANE (H.E)"
+    },
+    {
+      "vehicleId": 64,
+      "vType": "CATTERPILLAR BULDOZER (H.E)"
+    },
+    {
+      "vehicleId": 65,
+      "vType": "KENWORTH"
+    },
+    {
+      "vehicleId": 66,
+      "vType": "SUBURBAN"
+    },
+    {
+      "vehicleId": 67,
+      "vType": "CHEVROLET"
+    },
+    {
+      "vehicleId": 68,
+      "vType": "BARGE"
+    },
+    {
+      "vehicleId": 69,
+      "vType": "BOAT"
+    },
+    {
+      "vehicleId": 70,
+      "vType": "LANCHA"
+    },
+    {
+      "vehicleId": 71,
+      "vType": "SPEED BOAT"
+    },
+    {
+      "vehicleId": 72,
+      "vType": "HELICOPTER"
+    },
+    {
+      "vehicleId": 73,
+      "vType": "LIGHT AIRCRAFT"
+    },
+    {
+      "vehicleId": 74,
+      "vType": "SPRAY PLANE"
+    },
+    {
+      "vehicleId": 75,
+      "vType": "SDLG GRADER"
+    },
+    {
+      "vehicleId": 76,
+      "vType": "SANNY MIXER"
+    },
+    {
+      "vehicleId": 77,
+      "vType": "SANNY DUMPTRUCK"
+    },
+    {
+      "vehicleId": 78,
+      "vType": "KOMATSU GRADER"
+    },
+    {
+      "vehicleId": 79,
+      "vType": "KOMATSU BACKHOE"
+    },
+    {
+      "vehicleId": 80,
+      "vType": "KOMATSU BULLDOZER"
+    },
+    {
+      "vehicleId": 81,
+      "vType": "KOMATSU ROLLER"
+    },
+    {
+      "vehicleId": 82,
+      "vType": "SDLG BACKHOE"
+    },
+    {
+      "vehicleId": 83,
+      "vType": "SDLG WHEEL LOADER"
+    },
+    {
+      "vehicleId": 85,
+      "vType": "ASPALT VOGELE"
+    },
+    {
+      "vehicleId": 86,
+      "vType": "ASPALT PAVER"
+    },
+    {
+      "vehicleId": 87,
+      "vType": "ISUZU 4W"
+    },
+    {
+      "vehicleId": 88,
+      "vType": "4 Wheeler"
+    },
+    {
+      "vehicleId": 89,
+      "vType": "6 Wheeler"
+    },
+    {
+      "vehicleId": 90,
+      "vType": "10 Wheeler"
+    },
+    {
+      "vehicleId": 91,
+      "vType": "NISSAN SENTRA (SEDAN)"
+    },
+    {
+      "vehicleId": 94,
+      "vType": "Foton Dump Truck"
+    },
+    {
+      "vehicleId": 95,
+      "vType": "MITSUBISHI L200"
+    },
+    {
+      "vehicleId": 96,
+      "vType": "BOOM TRUCK"
+    },
+    {
+      "vehicleId": 97,
+      "vType": "TATA"
+    },
+    {
+      "vehicleId": 98,
+      "vType": "ISUZU 10W"
+    },
+    {
+      "vehicleId": 99,
+      "vType": "HITACHI BACKHOE"
+    },
+    {
+      "vehicleId": 100,
+      "vType": "MITSUBISHI TANKER"
+    },
+    {
+      "vehicleId": 101,
+      "vType": "MAN TRUCKTOR HEAD"
+    },
+    {
+      "vehicleId": 102,
+      "vType": "CATERPILLAR BULLDOZER"
+    },
+    {
+      "vehicleId": 103,
+      "vType": "SEM GRADER"
+    },
+    {
+      "vehicleId": 104,
+      "vType": "ISUZU SHUTTLE TRUCK"
+    },
+    {
+      "vehicleId": 105,
+      "vType": "ISUZU TANKER"
+    },
+    {
+      "vehicleId": 106,
+      "vType": "DYNAPAC ROAD ROLLER"
+    },
+    {
+      "vehicleId": 107,
+      "vType": "CATERPILLAR -  ROADROLLER"
+    },
+    {
+      "vehicleId": 108,
+      "vType": "BOMAG - ROAD ROLLER"
+    },
+    {
+      "vehicleId": 109,
+      "vType": "Mechanical - SKID LOADER"
+    },
+    {
+      "vehicleId": 110,
+      "vType": "TOYOTA - SKID LOADER"
+    },
+    {
+      "vehicleId": 111,
+      "vType": "CATTERPILLAR - SKID LOADER"
+    },
+    {
+      "vehicleId": 112,
+      "vType": "MUSTANG - SKID LOADER"
+    },
+    {
+      "vehicleId": 113,
+      "vType": "JCB - SKID LOADER"
+    },
+    {
+      "vehicleId": 114,
+      "vType": "CASE - SKID LOADER"
+    },
+    {
+      "vehicleId": 115,
+      "vType": "ISUZU DUMP TRUCK"
+    },
+    {
+      "vehicleId": 116,
+      "vType": "ISUZU SELF LOADING TRUCK"
+    },
+    {
+      "vehicleId": 117,
+      "vType": "JCB BACKHOE"
+    },
+    {
+      "vehicleId": 118,
+      "vType": "FUSO Mini Dump"
+    },
+    {
+      "vehicleId": 119,
+      "vType": "MAN DUMP TRUCK"
+    },
+    {
+      "vehicleId": 120,
+      "vType": "CATERPILLAR BACKHOE"
+    },
+    {
+      "vehicleId": 121,
+      "vType": "SAKAI ROAD ROLLER"
+    },
+    {
+      "vehicleId": 122,
+      "vType": "CATERPILLAR SKID LOADER"
+    },
+    {
+      "vehicleId": 123,
+      "vType": "ISUZU MINI DUMP"
+    }
+  ]
+}

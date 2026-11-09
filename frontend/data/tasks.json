@@ -1,0 +1,108 @@
+{
+  "Tasks": [
+    {
+      "taskId": 1,
+      "task1": "Installation"
+    },
+    {
+      "taskId": 2,
+      "task1": "Restoration"
+    },
+    {
+      "taskId": 3,
+      "task1": "Transfer"
+    },
+    {
+      "taskId": 4,
+      "task1": "Pull-Out"
+    },
+    {
+      "taskId": 5,
+      "task1": "Reinstallation"
+    },
+    {
+      "taskId": 6,
+      "task1": "Re-activation"
+    },
+    {
+      "taskId": 7,
+      "task1": "On Site Visit"
+    },
+    {
+      "taskId": 8,
+      "task1": "Preventive Maintenance"
+    },
+    {
+      "taskId": 9,
+      "task1": "Sim Replacement"
+    },
+    {
+      "taskId": 10,
+      "task1": "Device Replacement"
+    },
+    {
+      "taskId": 12,
+      "task1": "Installation: Fuel Sensor"
+    },
+    {
+      "taskId": 13,
+      "task1": "Installation: Immobilizer"
+    },
+    {
+      "taskId": 14,
+      "task1": "Installation: Overspeeding Buzzer"
+    },
+    {
+      "taskId": 15,
+      "task1": "Installation: Temp Sensor"
+    },
+    {
+      "taskId": 16,
+      "task1": "Recalibration: Fuel Sensor"
+    },
+    {
+      "taskId": 17,
+      "task1": "Installation: Relay"
+    },
+    {
+      "taskId": 18,
+      "task1": "Installation: Vibration Sensor"
+    },
+    {
+      "taskId": 19,
+      "task1": "Installation: Safety Box"
+    },
+    {
+      "taskId": 20,
+      "task1": "Installation: Door Sensor"
+    },
+    {
+      "taskId": 21,
+      "task1": "Installation: Mic \u0026 Speaker"
+    },
+    {
+      "taskId": 22,
+      "task1": "Installation: Aircon Relay"
+    },
+    {
+      "taskId": 24,
+      "task1": "Sim Upgrade"
+    },
+    {
+      "taskId": 25,
+      "task1": "Sim Registration"
+    },
+    {
+      "taskId": 26,
+      "task1": "Relocation"
+    },
+    {
+      "taskId": 27,
+      "task1": "Firmware Upgrade"
+    },
+    {
+      "taskId": 28,
+      "task1": "DEMO: Installation"
+    }
+  ]
+}

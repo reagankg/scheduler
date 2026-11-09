@@ -1,0 +1,88 @@
+{
+  "checkLists": [
+    {
+      "checkListId": 1,
+      "checkList1": "Vehicle Check List (Check All Accessories)"
+    },
+    {
+      "checkListId": 2,
+      "checkList1": "Start Vehicle"
+    },
+    {
+      "checkListId": 3,
+      "checkList1": "Check Battery of Vehicle"
+    },
+    {
+      "checkListId": 4,
+      "checkList1": "Check All Light Indicators"
+    },
+    {
+      "checkListId": 5,
+      "checkList1": "Check GPS Device for Possible Tamper"
+    },
+    {
+      "checkListId": 6,
+      "checkList1": "Check Antennas (GPS \u0026 GSM)"
+    },
+    {
+      "checkListId": 7,
+      "checkList1": "Check Power Supply Connection"
+    },
+    {
+      "checkListId": 8,
+      "checkList1": "Check Sim"
+    },
+    {
+      "checkListId": 9,
+      "checkList1": "Check Device Battery"
+    },
+    {
+      "checkListId": 10,
+      "checkList1": "Check Fuse"
+    },
+    {
+      "checkListId": 11,
+      "checkList1": "Check Signal (GPS \u0026 GSM)"
+    },
+    {
+      "checkListId": 12,
+      "checkList1": "Clean Device"
+    },
+    {
+      "checkListId": 13,
+      "checkList1": "Check S.O.S / Panic Button"
+    },
+    {
+      "checkListId": 14,
+      "checkList1": "Check Immobilizer"
+    },
+    {
+      "checkListId": 15,
+      "checkList1": "Check Fuel Sensor"
+    },
+    {
+      "checkListId": 16,
+      "checkList1": "Check Door Sensor"
+    },
+    {
+      "checkListId": 17,
+      "checkList1": "Check Temperature Sensor"
+    },
+    {
+      "checkListId": 18,
+      "checkList1": "Check Mic and Speaker"
+    },
+    {
+      "checkListId": 22,
+      "checkList1": " WRU Seal Sticker"
+    },
+    {
+      "checkListId": 23,
+      "checkList1": "CHECKED BY"
+    },
+    {
+      "checkListId": 25,
+      "checkList1": "Check Buzzer"
+    }
+  ]
+}

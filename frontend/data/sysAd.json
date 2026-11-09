@@ -1,0 +1,23 @@
+{
+  "sysAds": [
+    {
+      "saId": 1,
+      "saName": "Rowena Daisy Tecson",
+      "isDeleted": true
+    },
+    {
+      "saId": 2,
+      "saName": "Kayezelle Ann C. Ducot",
+      "isDeleted": false
+    },
+    {
+      "saId": 3,
+      "saName": "Reichelle Gonzales",
+      "isDeleted": false
+    },
+    {
+      "saId": 8,
+      "saName": "Vicent Soretta"
+    }
+  ]
+}

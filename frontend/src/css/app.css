@@ -1,0 +1,7 @@
+/* app global css */
+body {
+  font-family: "Liberation Sans", Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  color: #000; /* black text */
+  font-size: 12pt;
+}

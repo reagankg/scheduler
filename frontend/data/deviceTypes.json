@@ -1,0 +1,112 @@
+{
+  "deviceTypes": [
+    {
+      "dtId": 4,
+      "dtName": "Meitrack MVT340"
+    },
+    {
+      "dtId": 5,
+      "dtName": "Meitrack GT30X"
+    },
+    {
+      "dtId": 6,
+      "dtName": "Meitrack VT600"
+    },
+    {
+      "dtId": 7,
+      "dtName": "Meitrack MVT380"
+    },
+    {
+      "dtId": 8,
+      "dtName": "Meitrack MVT100"
+    },
+    {
+      "dtId": 9,
+      "dtName": "A300"
+    },
+    {
+      "dtId": 10,
+      "dtName": "Meitrack MT90"
+    },
+    {
+      "dtId": 11,
+      "dtName": "Meitrack MVT380 City"
+    },
+    {
+      "dtId": 12,
+      "dtName": "Cell Phone"
+    },
+    {
+      "dtId": 13,
+      "dtName": "Meitrack T1"
+    },
+    {
+      "dtId": 14,
+      "dtName": "iStartek VT900"
+    },
+    {
+      "dtId": 15,
+      "dtName": "Android"
+    },
+    {
+      "dtId": 16,
+      "dtName": "Meitrack VT300"
+    },
+    {
+      "dtId": 17,
+      "dtName": "Xexun XT008"
+    },
+    {
+      "dtId": 18,
+      "dtName": "Meitrack VT310 Solar"
+    },
+    {
+      "dtId": 19,
+      "dtName": "Android Wifi Only"
+    },
+    {
+      "dtId": 20,
+      "dtName": "Meitrack GT30"
+    },
+    {
+      "dtId": 21,
+      "dtName": "Meitrack T1 B"
+    },
+    {
+      "dtId": 22,
+      "dtName": "iOS"
+    },
+    {
+      "dtId": 23,
+      "dtName": "SkyWave IDP Standard"
+    },
+    {
+      "dtId": 24,
+      "dtName": "AT05"
+    },
+    {
+      "dtId": 25,
+      "dtName": "VT600"
+    },
+    {
+      "dtId": 26,
+      "dtName": "S20"
+    },
+    {
+      "dtId": 27,
+      "dtName": "Meitrack P99G"
+    },
+    {
+      "dtId": 28,
+      "dtName": "A500"
+    },
+    {
+      "dtId": 29,
+      "dtName": "FMC920"
+    },
+    {
+      "dtId": 30,
+      "dtName": "R18"
+    }
+  ]
+}

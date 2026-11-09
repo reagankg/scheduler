@@ -1,0 +1,3645 @@
+{
+  "clients": [
+    {
+      "clientId": 2,
+      "clientName": "Protek Telecoms Support Inc.",
+      "clientLoc": "Garage: Fishiries",
+      "contactPerson": "Sir Adan Nicolas",
+      "contactNo": "9",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 3,
+      "clientName": "Dole Philippines",
+      "contactPerson": "Marvin Bandojo",
+      "contactNo": "9088935045",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 4,
+      "clientName": "Sumifru Philippines Inc.",
+      "contactPerson": "Stephen Jan Venus",
+      "contactNo": "9178893908",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 5,
+      "clientName": "Altech Urban Agri Corp",
+      "clientLoc": "Camella Subdivision Cabanatuan Block 2, Lot 21 Mabini Extention, Cabanatuan City",
+      "contactPerson": "Alona Delos Santos / Allan Wong ",
+      "contactNo": "9998830623",
+      "iAddress": "Camella Subdivision Cabanatuan Block 2, Lot 21 Mabini Extention, Cabanatuan City",
+      "bAddress": " 2nd floor Amel Motorcycle Part Sto. Nino, Gapan City, Nueva Ecija"
+    },
+    {
+      "clientId": 6,
+      "clientName": "Belman Laboratories",
+      "clientLoc": "Sheridan cor. Reliance St. , Mandaluyong City",
+      "contactPerson": "Carlo Dimayuga",
+      "contactNo": "9985768529",
+      "iAddress": "Sheridan cor. Reliance St. , Mandaluyong City",
+      "bAddress": "Belman Bldg. II,78 Cordillera St. cor. Quezon Avenue, Quezon City"
+    },
+    {
+      "clientId": 7,
+      "clientName": "AB Mendoza Trucking Services",
+      "contactPerson": "April Mendoza",
+      "contactNo": "009196982",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 8,
+      "clientName": "Altec Industries",
+      "contactPerson": "Bing Aguilar",
+      "contactNo": "9985100000",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 9,
+      "clientName": "Bethany Management Inc.",
+      "contactPerson": "Brian Tan",
+      "contactNo": "9178295283",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 10,
+      "clientName": "Basic Hauling \u0026 Logistic Inc ",
+      "clientLoc": "Sumulong Highway, Antipolo, Rizal",
+      "contactPerson": "Sir Gilbert",
+      "contactNo": "9491273980",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 11,
+      "clientName": "Bethany Sales Inc.",
+      "contactPerson": "Brian Tan",
+      "contactNo": "9178295283",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 12,
+      "clientName": "Bigcat Software Solutions Inc.",
+      "contactPerson": "Jerwin Almario",
+      "contactNo": "929196992",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 13,
+      "clientName": "Bueno Primera / Capstrax Carriers Inc.",
+      "clientLoc": "Talamban Road, Cebu City",
+      "contactPerson": "Ms. Angie Hagupit",
+      "contactNo": "9686951448",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 14,
+      "clientName": "CandyCorner",
+      "clientLoc": "#1 Augustine St. Oranbo, Pasig City",
+      "contactPerson": "Remedios Go \u0022Mimie\u0022",
+      "contactNo": "9176276619",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 15,
+      "clientName": "Chemisol Inc",
+      "clientLoc": "none",
+      "contactPerson": "Jami Fuentes",
+      "contactNo": "9258174835",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 16,
+      "clientName": "CM Pancho",
+      "clientLoc": " (Batching Plant) Brgy Bulihan Plaridel Bulacan landmark: shell/petron",
+      "contactPerson": "John Rolyn Abraham",
+      "contactNo": "9154838118",
+      "iAddress": " (Batching Plant) Brgy Bulihan Plaridel Bulacan landmark: shell/petron",
+      "bAddress": " 71-A Scout Borromeo St. Diliman, Quezon City"
+    },
+    {
+      "clientId": 17,
+      "clientName": "Crown Asia Compounders Corporation",
+      "clientLoc": "ITC Rd., ITC Compound Brgy Bagbaguin, Valenzuela City",
+      "contactPerson": "Ms. Meriel ",
+      "contactNo": "9617631194",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 18,
+      "clientName": "Chemfour Inc",
+      "clientLoc": "1ST LAURA AVE. LAURA DRIVE, BAGUMBAYAN TAGUIG CITY",
+      "contactPerson": "Sidney",
+      "contactNo": "9088129148",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 19,
+      "clientName": "Elro Corporation",
+      "clientLoc": "none",
+      "contactPerson": "Jan Rex Dela Cruz",
+      "contactNo": "9177045371",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 20,
+      "clientName": "EV Diaz",
+      "clientLoc": "Kalipayan Resort, Gen Emilio Aguinaldo Hi-way, Dasmarinas Cavite",
+      "contactPerson": "John Lacson",
+      "contactNo": "9068377101",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 21,
+      "clientName": "Fruits of Life",
+      "clientLoc": "\u2003 #8 Sto. Niño St., San Francisco, Del Monte, Quezon City",
+      "contactPerson": "Joyce",
+      "contactNo": "9224332871",
+      "iAddress": "\u2003 #8 Sto. Niño St., San Francisco, Del Monte, Quezon City",
+      "bAddress": "\u2003 #8 Sto. Niño St., San Francisco, Del Monte, Quezon City"
+    },
+    {
+      "clientId": 22,
+      "clientName": "Fuel Options Inc.",
+      "clientLoc": "#38 RMT Industrial Complex, Tunasan, Muntinlupa City",
+      "contactPerson": "Ms. Maricel Maniebo",
+      "contactNo": "9228001054",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 23,
+      "clientName": "Green Heights Agricultural Corp",
+      "clientLoc": "4277 Emilia St. Palanan Makati City",
+      "contactPerson": "Michael Anthony Mapa",
+      "contactNo": "9189397663",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 24,
+      "clientName": "Integral Transport Services",
+      "clientLoc": "none",
+      "contactPerson": "Rod Boneo",
+      "contactNo": "9088699674",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 25,
+      "clientName": "International Veterinary and Agrochemical Corp",
+      "clientLoc": "Aboitiz Bldg., Airport Drive, Km. 9, Sasa, Davao City",
+      "contactPerson": "Chona Aquino",
+      "contactNo": "9177089162",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 26,
+      "clientName": "JPoon and Sons Corp",
+      "clientLoc": "none",
+      "contactPerson": "Russel Pederiane",
+      "contactNo": "9982972399",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 27,
+      "clientName": "JV Ascutia Construction Corporation",
+      "clientLoc": "none",
+      "contactPerson": "Bobbot Cruz",
+      "contactNo": "9204234735",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 28,
+      "clientName": "Knights LPG Transportation Corp",
+      "clientLoc": "none",
+      "contactPerson": "Liz Samson",
+      "contactNo": "9189658208",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 29,
+      "clientName": "Known You Seed Philippines Inc",
+      "clientLoc": "none",
+      "contactPerson": "Jesa Palconit / Jennifer Candelaria",
+      "contactNo": "9173201689",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 30,
+      "clientName": "LGU Tacloban / Hon Alfred Romualdez",
+      "clientLoc": "none",
+      "contactPerson": "Archie Alcantara",
+      "contactNo": "9752115213",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 31,
+      "clientName": "Licht Industrial",
+      "clientLoc": "none",
+      "contactPerson": "Rachiel Bianes",
+      "contactNo": "9985845452",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 32,
+      "clientName": "Manzan Global Resources Inc",
+      "clientLoc": "none",
+      "contactPerson": "Joy Manzan",
+      "contactNo": "9176513168",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 33,
+      "clientName": "Marc Ruiz",
+      "clientLoc": "none",
+      "contactPerson": "Marc Ruiz",
+      "contactNo": "9173141684",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 34,
+      "clientName": "Mida Food Distributors Inc",
+      "clientLoc": "2219 Singalong St, Malate, Manila, 1004 Metro Manila",
+      "contactPerson": "Edgar Anastacio",
+      "contactNo": "9175266432",
+      "iAddress": "2219 Singalong St, Malate, Manila, 1004 Metro Manila",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 35,
+      "clientName": "Monteone construction",
+      "clientLoc": "none",
+      "contactPerson": "Luis Martin Montelibano / Rhodora Bundang",
+      "contactNo": "0472529853",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 36,
+      "clientName": "Mr. Roman Azanza",
+      "clientLoc": "none",
+      "contactPerson": "Mr. Roman Azanza",
+      "contactNo": "9175408571",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 37,
+      "clientName": "Ms. Meann Tamayo",
+      "clientLoc": "none",
+      "contactPerson": "Meann Tamayo",
+      "contactNo": "0917856617",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 38,
+      "clientName": "Ms. Sarah Antonio",
+      "clientLoc": "none",
+      "contactPerson": "Sarah Antonio",
+      "contactNo": "9175172724",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 39,
+      "clientName": "Mr. Nards Garcia",
+      "clientLoc": "none",
+      "contactPerson": "Nards Garcia",
+      "contactNo": "9988475482",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 40,
+      "clientName": "NNR Global Logistics Phils Inc",
+      "clientLoc": "none",
+      "contactPerson": "Greg Daria",
+      "contactNo": "9228795458",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 41,
+      "clientName": "Pantos Logistics Inc",
+      "clientLoc": "none",
+      "contactPerson": "Cris Florendo",
+      "contactNo": "9175879050",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 42,
+      "clientName": "PLDT Subic Tel",
+      "clientLoc": "none",
+      "contactPerson": "Erl john Ong",
+      "contactNo": "0472522000",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 43,
+      "clientName": "Professional Transport Co.",
+      "clientLoc": "#25 R JACINTO ST CANUMAY WEST VALENZUELA CITY",
+      "contactPerson": "Khay Hagad",
+      "contactNo": "9985801967",
+      "iAddress": "#25 R JACINTO ST CANUMAY WEST VALENZUELA CITY",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 44,
+      "clientName": "Reserv logistics",
+      "clientLoc": "none",
+      "contactPerson": "Reyno Geretape",
+      "contactNo": "9484443915",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 45,
+      "clientName": "RGS Optitruck",
+      "clientLoc": "6059 Balanti St. Hangya Road, Ugong, Valenzuela City",
+      "contactPerson": "Riel Samoy",
+      "contactNo": "9175357435",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 46,
+      "clientName": "Shaw Autogas Inc",
+      "clientLoc": "none",
+      "contactPerson": "Carlito Ngo",
+      "contactNo": "9189590427",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 47,
+      "clientName": "Simjo Corporation",
+      "clientLoc": "none",
+      "contactPerson": "Honey Grace Gelico",
+      "contactNo": "8611610",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 48,
+      "clientName": "SOD Transport",
+      "clientLoc": "none",
+      "contactPerson": "Renie Hernandez / Doddie Dysico",
+      "contactNo": "9328740918",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 49,
+      "clientName": "Solo Meat Group",
+      "clientLoc": "none",
+      "contactPerson": "Arnold / Jake Yulo",
+      "contactNo": "6328322877",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 50,
+      "clientName": "South Pacific Inc",
+      "clientLoc": "none",
+      "contactPerson": "Edilbert Soriano",
+      "contactNo": "9176339390",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 51,
+      "clientName": "Speedy Tourist Transport",
+      "clientLoc": "none",
+      "contactPerson": "Albert Chavez",
+      "contactNo": "9228670765",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 52,
+      "clientName": "Surecrop Agriventures Inc",
+      "clientLoc": "none",
+      "contactPerson": "Magnolia Dela Cruz",
+      "contactNo": "9338693311",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 53,
+      "clientName": "TAT Recycables and Renewables Corp",
+      "clientLoc": "none",
+      "contactPerson": "Rachiel Bianes",
+      "contactNo": "9985845452",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 54,
+      "clientName": "The Real Ramen Nazi Inc",
+      "clientLoc": "none",
+      "contactPerson": "Lenie Urbano",
+      "contactNo": "9178775565",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 55,
+      "clientName": "Traders Industrial Supply Inc",
+      "clientLoc": "none",
+      "contactPerson": "Arlene Santiago",
+      "contactNo": "8178775565",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 56,
+      "clientName": "Transgas Inc",
+      "clientLoc": "none",
+      "contactPerson": "Gilbert Tapoc",
+      "contactNo": "9228823192",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 57,
+      "clientName": "Transmodal Freight Forwarders Corporation",
+      "clientLoc": "2675 Old Panaderos Sta. Ana, Manila",
+      "contactPerson": "Mr. Eric Aga",
+      "contactNo": "9190873038",
+      "bAddress": "2675 Old Panaderos Sta. Ana, Manila"
+    },
+    {
+      "clientId": 58,
+      "clientName": "Transwest Transport",
+      "clientLoc": "none",
+      "contactPerson": "Doddie Dysico",
+      "contactNo": "9328740918",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 59,
+      "clientName": "Water Sports Hub",
+      "clientLoc": "none",
+      "contactPerson": "Juliet Omadto",
+      "contactNo": "9999999999",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 60,
+      "clientName": "West Coast Trucking Corp",
+      "clientLoc": "none",
+      "contactPerson": "none",
+      "contactNo": "9999999999",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 61,
+      "clientName": "San Miguel Purefoods",
+      "clientLoc": "One Roadway Garage, Gen. Trias Cavite",
+      "contactPerson": "Maricris Feliciano",
+      "contactNo": "9494252341",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 62,
+      "clientName": "Fuente Alamo Trucking Services Inc",
+      "clientLoc": "G. Oano St. Opao Cebu City",
+      "contactPerson": "Paco Jarque",
+      "contactNo": "9209505028",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 63,
+      "clientName": "DAQs Trucking",
+      "clientLoc": "none",
+      "contactPerson": "Pedro L. Daquipil, Jr.",
+      "contactNo": "9177015067",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 64,
+      "clientName": "Sonoy Trucking",
+      "clientLoc": "none",
+      "contactPerson": "Jake / Reynald P. Abueme",
+      "contactNo": "9274186230",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 65,
+      "clientName": "Gabana Trucking",
+      "clientLoc": "JCF Compound LC5 Road City Heights General Santos",
+      "contactPerson": "Lotty Jabay",
+      "contactNo": "9363216579",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 66,
+      "clientName": "Pilmico Foods Corp",
+      "clientLoc": "none",
+      "contactPerson": "Xenia Galleto",
+      "contactNo": "9173182727",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 67,
+      "clientName": "ST. PETER CHAPELS MINDANAO WEST, INC",
+      "clientLoc": "none",
+      "contactPerson": "Rolly Adviento",
+      "contactNo": "9228021777",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 68,
+      "clientName": "ST. PETERLIFE MEMORIAL HOMES LUZON, INC",
+      "clientLoc": "none",
+      "contactPerson": "Rolly Adviento",
+      "contactNo": "9228021777",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 69,
+      "clientName": "ST. PETER CHAPELS NORTHERN LUZON, INC",
+      "clientLoc": "none",
+      "contactPerson": "Rolly Adviento",
+      "contactNo": "9228021777",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 70,
+      "clientName": "ST. PETERLIFE MEMORIAL HOMES MINDANAO, INC",
+      "clientLoc": "none",
+      "contactPerson": "Rolly Adviento",
+      "contactNo": "9228021777",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 71,
+      "clientName": "ST. PETER CASKET MANUFACTURING MINDANAO, INC",
+      "clientLoc": "none",
+      "contactPerson": "Rolly Adviento",
+      "contactNo": "9228021777",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 72,
+      "clientName": "ST. PETER CHAPELS LUZON, INC",
+      "clientLoc": "Motorpool Quezon City",
+      "contactPerson": "Sir Jonathan",
+      "contactNo": "9232744659",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 73,
+      "clientName": "ST. PETER CASKET MANUFACTURING AND TRADING LUZON, INC",
+      "clientLoc": "none",
+      "contactPerson": "Rolly Adviento",
+      "contactNo": "9228021777",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 74,
+      "clientName": "ST. PETER CASKET FACTORY \u0026 TRADING VISAYAS, INC",
+      "clientLoc": "none",
+      "contactPerson": "Rolly Adviento",
+      "contactNo": "9228021777",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 75,
+      "clientName": "ST. PETER MEMORIAL CHAPELS, INC",
+      "clientLoc": "none",
+      "contactPerson": "Rolly Adviento",
+      "contactNo": "9176241275",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 76,
+      "clientName": "FAMILY CHOICE MEMORIAL CHAPELS, INC",
+      "clientLoc": "none",
+      "contactPerson": "Rolly Adviento",
+      "contactNo": "9228021777",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 77,
+      "clientName": "ST. PETERLIFE MEMORIAL HOMES VISAYAS, INC",
+      "clientLoc": "none",
+      "contactPerson": "Rolly Adviento",
+      "contactNo": "9228021777",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 78,
+      "clientName": "ST. PETER CHAPELS SOUTHERN LUZON, INC",
+      "clientLoc": "none",
+      "contactPerson": "Rolly Adviento",
+      "contactNo": "9228021777",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 79,
+      "clientName": "San Simon Meat Products",
+      "clientLoc": "none",
+      "contactPerson": "Analiza Mamaril",
+      "contactNo": "3717711",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 80,
+      "clientName": "C\u0026E Publishing, Inc.",
+      "clientLoc": "680 Bldg 839 Edsa South Triangle, EDSA, Quezon City, NCR, Philippines",
+      "contactPerson": "Gilbert Go",
+      "contactNo": "9178072971",
+      "iAddress": "none",
+      "bAddress": "680 Bldg 839 Edsa South Triangle, EDSA, Quezon City, NCR, Philippines"
+    },
+    {
+      "clientId": 81,
+      "clientName": "Agway Chemicals Corp",
+      "contactPerson": "Ronwald Bumawat",
+      "contactNo": "9209533193",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 82,
+      "clientName": "Truckmate Global Logistics Inc. ",
+      "clientLoc": "Mabalas Street Brgy Calulut, City of San Fernando Pampanga",
+      "contactPerson": "Jun Pineda",
+      "contactNo": "9175287490",
+      "iAddress": "16-2 \u0026 4 Don Meliton Grande St. Brgy. Anunas Angeles City, Pampanga",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 83,
+      "clientName": "Sanmarcus Express Corp / Sprint Logistics",
+      "clientLoc": "none",
+      "contactPerson": "Randolf Manoso",
+      "contactNo": "8438288",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 85,
+      "clientName": "Devex Inc.",
+      "clientLoc": "298 Bagong Silang Haig St Mandaluyong",
+      "contactPerson": "Racelle Casimsiman",
+      "contactNo": "9988474374",
+      "iAddress": "298 Bagong Silang Haig St Mandaluyong",
+      "bAddress": "298 Bagong Silang Haig St Mandaluyong"
+    },
+    {
+      "clientId": 86,
+      "clientName": "Conmech Construction \u0026 Dev Corp",
+      "clientLoc": " FSA Corporate Plaza #132 San Francisco St Mandaluyong City",
+      "contactPerson": "Rhed Lacanlale",
+      "contactNo": "9989604620",
+      "iAddress": " FSA Corporate Plaza #132 San Francisco St Mandaluyong City",
+      "bAddress": " FSA Corporate Plaza #132 San Francisco St Mandaluyong City"
+    },
+    {
+      "clientId": 87,
+      "clientName": "Bonanza Enterprise",
+      "contactPerson": "Joseph Li / Ms Ruby",
+      "contactNo": "3672222",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 88,
+      "clientName": "Medvil Farms Inc.",
+      "clientLoc": "none",
+      "contactPerson": "Raffy Dela Cruz",
+      "contactNo": "9177030254",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 89,
+      "clientName": "Country Ricemill \u0026 Trading",
+      "clientLoc": "Brgy 28 San Bernabe Vintar Road Laoag City, Ilocos Norte",
+      "contactPerson": "Bong Guillermo",
+      "contactNo": "9433211780",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 90,
+      "clientName": "Mr. Nelson Aguinaldo",
+      "clientLoc": "none",
+      "contactPerson": "Khay Hagad",
+      "contactNo": "9285009929",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 91,
+      "clientName": "Coral Bay Nickel Corporation",
+      "clientLoc": "none",
+      "contactPerson": "Marlon Tumbaga",
+      "contactNo": "9175088523",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 92,
+      "clientName": "Pepperjack Inc.",
+      "clientLoc": "none",
+      "contactPerson": "Grace Pillas",
+      "contactNo": "9178122920",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 93,
+      "clientName": "The Church of Latter Day Saints",
+      "clientLoc": "none",
+      "contactPerson": "Elija Osmena",
+      "contactNo": "9989688527",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 94,
+      "clientName": "Kargamine Too Inc.",
+      "clientLoc": "Del Monte Ave. Quezon City",
+      "contactPerson": "Christian",
+      "contactNo": "9237343307",
+      "iAddress": "Del Monte Ave. Quezon City",
+      "bAddress": "Del Monte Ave. Quezon City"
+    },
+    {
+      "clientId": 95,
+      "clientName": "Karga Container Inc.",
+      "clientLoc": "248 Del Monte Ave. Quezon City",
+      "contactPerson": "RC Esponilla",
+      "contactNo": "9338126953",
+      "iAddress": "248 Del Monte Ave. Quezon City",
+      "bAddress": "248 Del Monte Ave. Quezon City"
+    },
+    {
+      "clientId": 96,
+      "clientName": "SA Technologies Philippines Inc.",
+      "clientLoc": "Finance St. Cor. Industry St. Common Goal Tower, Madrigal Business Park, Alabang Muntinlupa City ",
+      "contactPerson": "Mr. Renz Jayson Bragais",
+      "contactNo": "9175621308",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 97,
+      "clientName": "Mr. Dodjie Violago",
+      "clientLoc": "none",
+      "contactPerson": "Dodjie Violago",
+      "contactNo": "9178673696",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 98,
+      "clientName": "Westpoint Industrial Sale Co Inc.",
+      "clientLoc": "1 Col. San Miguel St., Brgy Batis, San Juan, Metro Manila",
+      "contactPerson": "Michelle Bueza",
+      "contactNo": "9178526178",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 99,
+      "clientName": "MSB Seafood Dealer",
+      "clientLoc": "70 Jerusalem St. Multinational Village, Paranaque / 45 Gentleness St.",
+      "contactPerson": "Nerry James Bretana",
+      "contactNo": "9088941216",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 100,
+      "clientName": "GATEWAY PRIME MOVERS",
+      "clientLoc": "Ocampo Compound, Tirona Highway, Habay 1, Bacoor, Cavite",
+      "contactPerson": "Barry Benitez",
+      "contactNo": "9338517003",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 101,
+      "clientName": "Ueno Container Logistics Inc.",
+      "clientLoc": "UENO CONTAINER LOGISTICS INC",
+      "contactPerson": "Ms. Nelia Ulatan",
+      "contactNo": "9338576432",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 102,
+      "clientName": "Xtrawealth Gasoline Station",
+      "clientLoc": "none",
+      "contactPerson": "Carol Ong",
+      "contactNo": "9223175998",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 103,
+      "clientName": "Hi Advance Philippines",
+      "clientLoc": "none",
+      "contactPerson": "Dave Bonoan",
+      "contactNo": "9173929088",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 104,
+      "clientName": "Cabulos Transport",
+      "contactPerson": "Bong Malilin",
+      "contactNo": "9173053260",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 105,
+      "clientName": "Delsa Enterprise",
+      "clientLoc": "Bypass Road, Brgy 6 Amadeo, Cavite",
+      "contactPerson": "Paul Dela Cruz",
+      "contactNo": "9228779713",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 106,
+      "clientName": "Trigo Movers Inc.",
+      "clientLoc": "none",
+      "contactPerson": "Mary Navarro",
+      "contactNo": "9338652137",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 107,
+      "clientName": "PLDT",
+      "clientLoc": "8/F MGO Building, Legaspi Cor. Dela Rosa St., Makati City",
+      "contactPerson": "Amil Azurin",
+      "contactNo": "9209252957",
+      "iAddress": "8/F MGO Building, Legaspi Cor. Dela Rosa St., Makati City",
+      "bAddress": "8/F MGO Building, Legaspi Cor. Dela Rosa St., Makati City"
+    },
+    {
+      "clientId": 108,
+      "clientName": "Cathay Pacific",
+      "clientLoc": "Cainta plant, F.P. Felix Avenue Cainta, Rizal 1900",
+      "contactPerson": "Jon Dullavin",
+      "contactNo": "9194875167",
+      "iAddress": "Cainta plant, F.P. Felix Avenue Cainta, Rizal 1900",
+      "bAddress": "Cainta plant, F.P. Felix Avenue Cainta, Rizal 1900"
+    },
+    {
+      "clientId": 109,
+      "clientName": "Calvo Tropical",
+      "clientLoc": "2A, Blue Sapphire Residences , 30th Street Corner 2nd Avenue Bonifacio Global City, Taguig City                                        ",
+      "contactPerson": "Bernadeth Umali",
+      "contactNo": "9999999999",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 110,
+      "clientName": "Coolmate",
+      "clientLoc": "3005 Don Pablo Ocampo Sr. Extension Corner Kakarong St. Brgy. Sta. Cruz, Makati City ",
+      "contactPerson": "Michelle V. Barrion / Vincent Tagle",
+      "contactNo": "9173926884",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 111,
+      "clientName": "Dilgonz Construction Corp",
+      "clientLoc": "Roman Superhighway, Balanga, Bataan",
+      "contactPerson": "Kit Mendoza / Marco",
+      "contactNo": "9256178948",
+      "iAddress": "Roman Superhighway, Balanga, Bataan",
+      "bAddress": "Roman Superhighway, Balanga, Bataan"
+    },
+    {
+      "clientId": 112,
+      "clientName": "Ecofarm",
+      "clientLoc": "31st Flr. Philam Life Tower, Paseo de Roxas, Makati                                                ",
+      "contactPerson": "Vianney Brossad / Karen(Operation)",
+      "contactNo": "810026669",
+      "iAddress": "31st Flr. Philam Life Tower, Paseo de Roxas, Makati                                                ",
+      "bAddress": "31st Flr. Philam Life Tower, Paseo de Roxas, Makati                                                "
+    },
+    {
+      "clientId": 113,
+      "clientName": "Prima Illuminata",
+      "clientLoc": "31st Flr. Philam Life Tower, Paseo de Roxas, Makati                                                ",
+      "contactPerson": "Vianney Brossad / Karen(Operation)",
+      "contactNo": "810026669",
+      "iAddress": "31st Flr. Philam Life Tower, Paseo de Roxas, Makati                                                ",
+      "bAddress": "31st Flr. Philam Life Tower, Paseo de Roxas, Makati                                                "
+    },
+    {
+      "clientId": 114,
+      "clientName": "Karamar",
+      "clientLoc": "31st Flr. Philam Life Tower, Paseo de Roxas, Makati                                                ",
+      "contactPerson": "Vianney Brossad / Karen(Operation)",
+      "contactNo": "810026669",
+      "iAddress": "31st Flr. Philam Life Tower, Paseo de Roxas, Makati                                                ",
+      "bAddress": "31st Flr. Philam Life Tower, Paseo de Roxas, Makati                                                "
+    },
+    {
+      "clientId": 115,
+      "clientName": "Terramar Aqua",
+      "clientLoc": "31st Flr. Philam Life Tower, Paseo de Roxas, Makati                                                ",
+      "contactPerson": "Vianney Brossad / Karen(Operation)",
+      "contactNo": "810026669",
+      "iAddress": "31st Flr. Philam Life Tower, Paseo de Roxas, Makati                                                ",
+      "bAddress": "31st Flr. Philam Life Tower, Paseo de Roxas, Makati                                                "
+    },
+    {
+      "clientId": 116,
+      "clientName": "Fastlink Trucking        ",
+      "clientLoc": "Dagat dagatan rd, corner Tanigue St. Caloocan City",
+      "contactPerson": "Fernando Moquia / Don Lopez ",
+      "contactNo": "9354498162",
+      "iAddress": "Dagat dagatan rd, corner Tanigue St. Caloocan City",
+      "bAddress": "Dagat dagatan rd, corner Tanigue St. Caloocan City"
+    },
+    {
+      "clientId": 117,
+      "clientName": "Flowmetrics Industrial Sales Inc.",
+      "clientLoc": "8-A Sto Domingo St. Brgy. Sto Domingo. Quezon City. Between Maria clara and Tirad Pasd St",
+      "contactPerson": "Jun Jun Ang",
+      "contactNo": "9333977842",
+      "iAddress": "8-A Sto Domingo St. Brgy. Sto Domingo. Quezon City. Between Maria clara and Tirad Pasd St",
+      "bAddress": "8-A Sto Domingo St. Brgy. Sto Domingo. Quezon City. Between Maria clara and Tirad Pasd St"
+    },
+    {
+      "clientId": 118,
+      "clientName": "HRD Singapore Pte Ltd",
+      "clientLoc": "Block 3 Cavite, Economic Zone II, General Trias, Cavite",
+      "contactPerson": "Jen Onrubia",
+      "contactNo": "9209126114",
+      "iAddress": "Block 3 Cavite, Economic Zone II, General Trias, Cavite",
+      "bAddress": "Block 3 Cavite, Economic Zone II, General Trias, Cavite"
+    },
+    {
+      "clientId": 119,
+      "clientName": "K\u0026W Contracting Services and Supply",
+      "clientLoc": "Dau, Pampanga",
+      "contactPerson": "Allan Wong",
+      "contactNo": "9998830623",
+      "iAddress": "Dau, Pampanga",
+      "bAddress": "Dau, Pampanga"
+    },
+    {
+      "clientId": 120,
+      "clientName": "Readycon",
+      "clientLoc": "Manggahan , Pasig City",
+      "contactPerson": "Chris Feraro",
+      "contactNo": "9338113623",
+      "iAddress": "Manggahan , Pasig City",
+      "bAddress": "Manggahan , Pasig City"
+    },
+    {
+      "clientId": 121,
+      "clientName": "RKN Freight Service",
+      "clientLoc": "P-7 Buenavista , Santiago City, Isabela                                                ",
+      "contactPerson": "Bobet/Violeta Maramba",
+      "contactNo": "9274013330",
+      "iAddress": "P-7 Buenavista , Santiago City, Isabela                                                ",
+      "bAddress": "P-7 Buenavista , Santiago City, Isabela                                                "
+    },
+    {
+      "clientId": 122,
+      "clientName": "Almaleen Trucking",
+      "clientLoc": " Block 26 Lot 1 to 3 Canaynay Ave., Phase 5 BF Martinville, Brgy Manuyo II, Las Pinas City",
+      "contactPerson": "Virginia M. Macario",
+      "contactNo": "9688551936",
+      "iAddress": " Block 26 Lot 1 to 3 Canaynay Ave., Phase 5 BF Martinville, Brgy Manuyo II, Las Pinas City",
+      "bAddress": " Block 26 Lot 1 to 3 Canaynay Ave., Phase 5 BF Martinville, Brgy Manuyo II, Las Pinas City"
+    },
+    {
+      "clientId": 123,
+      "clientName": "CHA RSV Builder",
+      "clientLoc": "133 Sitio Muzon Buhol na Mangga San Ildefonso, Bulacan",
+      "contactPerson": "Rudy Valdez",
+      "contactNo": "9771306400",
+      "iAddress": "133 Sitio Muzon Buhol na Mangga San Ildefonso, Bulacan",
+      "bAddress": "133 Sitio Muzon Buhol na Mangga San Ildefonso, Bulacan"
+    },
+    {
+      "clientId": 124,
+      "clientName": "CHA JROS Trucking",
+      "clientLoc": "Divine Grace 2 Pulong Gubat Balagtas Bulacan",
+      "contactPerson": "Oscar Mapue",
+      "contactNo": "9175318841",
+      "iAddress": "Divine Grace 2 Pulong Gubat Balagtas Bulacan",
+      "bAddress": "Divine Grace 2 Pulong Gubat Balagtas Bulacan"
+    },
+    {
+      "clientId": 125,
+      "clientName": "CHA Jarmar Hauling Service Corporation",
+      "clientLoc": "1146 San Jose, San Luis, Pampanga",
+      "contactPerson": "Loida Mañaol",
+      "contactNo": "9328501036",
+      "iAddress": "1146 San Jose, San Luis, Pampanga",
+      "bAddress": "1146 San Jose, San Luis, Pampanga"
+    },
+    {
+      "clientId": 126,
+      "clientName": "CHA Kaizen Trio Bulk Handling \u0026 Trucking Services, Inc.",
+      "clientLoc": "MG Santos St. Poblacion, Pandi, Bulacan",
+      "contactPerson": "Kristine Rose Aldaba",
+      "contactNo": "9175117183",
+      "iAddress": "MG Santos St. Poblacion, Pandi, Bulacan",
+      "bAddress": "MG Santos St. Poblacion, Pandi, Bulacan"
+    },
+    {
+      "clientId": 127,
+      "clientName": "CHA Hanzhec Cargo Hauling Services",
+      "clientLoc": "#553 J. Maliwat St. Brgy. Anyatam, San Ildefonso, Bulacan",
+      "contactPerson": "Hector Maliwat",
+      "contactNo": "9989527493",
+      "iAddress": "#553 J. Maliwat St. Brgy. Anyatam, San Ildefonso, Bulacan",
+      "bAddress": "#553 J. Maliwat St. Brgy. Anyatam, San Ildefonso, Bulacan"
+    },
+    {
+      "clientId": 128,
+      "clientName": "CHA RST Trucking Services",
+      "clientLoc": "Brgy. Partida, San Miguel, Bulacan",
+      "contactPerson": "Rodolfo Tecson / Ms. Divine",
+      "contactNo": "9088856787",
+      "iAddress": "Brgy. Partida, San Miguel, Bulacan",
+      "bAddress": "Brgy. Partida, San Miguel, Bulacan"
+    },
+    {
+      "clientId": 129,
+      "clientName": "CHA RD Hatchery Innovation",
+      "clientLoc": "Brgy. Casilagan, Mangatarem, Pangasinan",
+      "contactPerson": "Russell Daniel Dix",
+      "contactNo": "9175042391",
+      "iAddress": "Brgy. Casilagan, Mangatarem, Pangasinan",
+      "bAddress": "Brgy. Casilagan, Mangatarem, Pangasinan"
+    },
+    {
+      "clientId": 130,
+      "clientName": "CHA Castro-Velasco Enterprises",
+      "clientLoc": "Brgy. Calayaan, Gerona Tarlac",
+      "contactPerson": "Randy Millet",
+      "contactNo": "9286037231",
+      "iAddress": "Brgy. Calayaan, Gerona Tarlac",
+      "bAddress": "Brgy. Calayaan, Gerona Tarlac"
+    },
+    {
+      "clientId": 131,
+      "clientName": "CHA Ethel Transport and Trucking Services",
+      "clientLoc": "Pinagkawitan Lipa, Batangas",
+      "contactPerson": "Limwell Magnaye",
+      "contactNo": "9297337633",
+      "iAddress": "Pinagkawitan Lipa, Batangas",
+      "bAddress": "Pinagkawitan Lipa, Batangas"
+    },
+    {
+      "clientId": 132,
+      "clientName": "CHA Joslar Trucking",
+      "clientLoc": "#1 Brgy. Santa Cruz, Concepcion Tarlac",
+      "contactPerson": "Jose Luis Arceo",
+      "contactNo": "9985354849",
+      "iAddress": "#1 Brgy. Santa Cruz, Concepcion Tarlac",
+      "bAddress": "#1 Brgy. Santa Cruz, Concepcion Tarlac"
+    },
+    {
+      "clientId": 133,
+      "clientName": "CHA Lazatin-Santos Trucking Services",
+      "clientLoc": "Bonifacio St. San Nicolas Poblacio, Concepcion Tarlac",
+      "contactPerson": "Rose",
+      "contactNo": "9228418633",
+      "iAddress": "Bonifacio St. San Nicolas Poblacio, Concepcion Tarlac",
+      "bAddress": "Bonifacio St. San Nicolas Poblacio, Concepcion Tarlac"
+    },
+    {
+      "clientId": 134,
+      "clientName": "CHA M.D. Villanueva Trucking Services",
+      "clientLoc": "Purok Paraiso, Brgy. Tinang, Concepcion Tarlac",
+      "contactPerson": "Jowell T. Villanueva",
+      "contactNo": "9209649698",
+      "iAddress": "Purok Paraiso, Brgy. Tinang, Concepcion Tarlac",
+      "bAddress": "Purok Paraiso, Brgy. Tinang, Concepcion Tarlac"
+    },
+    {
+      "clientId": 135,
+      "clientName": "CHA PGBB Handling Services",
+      "clientLoc": "360 Pulong Gubat, Balagtas Bulacan",
+      "contactPerson": "Arnel C. Alcaraz",
+      "contactNo": "9175940601",
+      "iAddress": "360 Pulong Gubat, Balagtas Bulacan",
+      "bAddress": "360 Pulong Gubat, Balagtas Bulacan"
+    },
+    {
+      "clientId": 136,
+      "clientName": "Steph-Grace Movers Co.",
+      "clientLoc": "#731 Vargas St., Sto. Domingo II, Capas Tarlac",
+      "contactPerson": "Grace Rodriguez",
+      "contactNo": "9778141370",
+      "iAddress": "#731 Vargas St., Sto. Domingo II, Capas Tarlac",
+      "bAddress": "#731 Vargas St., Sto. Domingo II, Capas Tarlac"
+    },
+    {
+      "clientId": 137,
+      "clientName": "CHA V. Calma Agri Product Supply and Trucking Line",
+      "clientLoc": "Musni San Jose, San Luis, Pampanga",
+      "contactPerson": "Gil Calma",
+      "contactNo": "9257166117",
+      "iAddress": "Musni San Jose, San Luis, Pampanga",
+      "bAddress": "Musni San Jose, San Luis, Pampanga"
+    },
+    {
+      "clientId": 138,
+      "clientName": "CHA WCL Trucking",
+      "clientLoc": "736 Paco Roman St., Cabanatuan City",
+      "contactPerson": "Wilson Charles Garcia Lim",
+      "contactNo": "9175617530",
+      "iAddress": "736 Paco Roman St., Cabanatuan City",
+      "bAddress": "736 Paco Roman St., Cabanatuan City"
+    },
+    {
+      "clientId": 139,
+      "clientName": "Picar Holdings",
+      "clientLoc": "Ara Vista Village Crisanto M. delos Reyes Ave",
+      "contactPerson": "Mr. Malony Hernando",
+      "contactNo": "9277200007",
+      "iAddress": "Ara Vista Village Crisanto M. delos Reyes Ave",
+      "bAddress": "Ara Vista Village Crisanto M. delos Reyes Ave"
+    },
+    {
+      "clientId": 149,
+      "clientName": "Metro Pac Movers",
+      "clientLoc": "Cainta, Rizal",
+      "contactPerson": "Jowel Matos",
+      "contactNo": "9498819625",
+      "iAddress": "Cainta, Rizal",
+      "bAddress": "Concepcion, Marikina City"
+    },
+    {
+      "clientId": 150,
+      "clientName": "RFS Freight Services",
+      "clientLoc": "1013 Brgy 118 Lo15 Blk27 Rawis Tondo Manila",
+      "contactPerson": "Belen Tido",
+      "contactNo": "9175971360",
+      "iAddress": "1013 Brgy 118 Lo15 Blk27 Rawis Tondo Manila",
+      "bAddress": "1013 Brgy 118 Lo15 Blk27 Rawis Tondo Manila"
+    },
+    {
+      "clientId": 151,
+      "clientName": "6R Van Movers Inc.",
+      "clientLoc": "1013 Brgy 118 Lo15 Blk27 Rawis Tondo Manila",
+      "contactPerson": "Robin Diane",
+      "contactNo": "9155891299",
+      "iAddress": "1013 Brgy 118 Lo15 Blk27 Rawis Tondo Manila",
+      "bAddress": "1013 Brgy 118 Lo15 Blk27 Rawis Tondo Manila"
+    },
+    {
+      "clientId": 152,
+      "clientName": "Romeo Agbisit",
+      "contactPerson": "Romeo Agbisit",
+      "iAddress": "Davao City",
+      "bAddress": "Davao City"
+    },
+    {
+      "clientId": 153,
+      "clientName": "SB Ortega",
+      "clientLoc": "Brgy. Macayug, San Jacinto, Pangasinan",
+      "contactPerson": "Ricardo Seguin",
+      "contactNo": "9437061572",
+      "iAddress": "Brgy. Macayug, San Jacinto, Pangasinan",
+      "bAddress": "8th Flr Rm. 804 Globe Telecom Plaza, Madison St. Mandaluyong City"
+    },
+    {
+      "clientId": 154,
+      "clientName": "FRV Trucking",
+      "clientLoc": "North Harbor, Tondo, MAnila",
+      "contactPerson": "Arlene Beltran",
+      "contactNo": "9295249698",
+      "iAddress": "North Harbor, Tondo, MAnila",
+      "bAddress": "North Harbor, Tondo, MAnila"
+    },
+    {
+      "clientId": 155,
+      "clientName": "Universal Glass",
+      "clientLoc": "RFJ Bldg. #15 United St. Kapitolyo Pasig",
+      "contactPerson": "Precy Napagal",
+      "contactNo": "9985850441",
+      "iAddress": "RFJ Bldg. #15 United St. Kapitolyo Pasig",
+      "bAddress": "PLDT MGO"
+    },
+    {
+      "clientId": 156,
+      "clientName": "Sanvi Transport",
+      "clientLoc": "1ST SAN RAFAEL BULACAN",
+      "contactPerson": "ADHEL SANTOS",
+      "contactNo": "9328687467",
+      "iAddress": "1ST SAN RAFAEL BULACAN",
+      "bAddress": "1ST SAN RAFAEL BULACAN"
+    },
+    {
+      "clientId": 157,
+      "clientName": "Charoen Pokhand Foods Philippines Corporation - Tarlac",
+      "clientLoc": "Feedmill, Gerona Tarlac",
+      "contactPerson": "Sir Angelito",
+      "contactNo": "9618426686"
+    },
+    {
+      "clientId": 158,
+      "clientName": "SB Stargold",
+      "clientLoc": "Lot 20 Blk 25 Stateland, Mangahan General Trias Cavite",
+      "contactPerson": "Mando Eugenio",
+      "contactNo": "9175451731",
+      "iAddress": "Lot 20 Blk 25 Stateland, Mangahan General Trias Cavite",
+      "bAddress": "8th Flr Rm. 804 Globe Telecom Plaza, Madison St. Mandaluyong City"
+    },
+    {
+      "clientId": 159,
+      "clientName": "M.Montesclaros Ent. Inc",
+      "clientLoc": "Bagontaas Valencia",
+      "contactPerson": "Rhod",
+      "contactNo": "9276118986",
+      "iAddress": "Bagontaas Valencia",
+      "bAddress": "Bagontaas Valencia"
+    },
+    {
+      "clientId": 160,
+      "clientName": "GPS Trucking",
+      "clientLoc": "87 Lapu Lapu Street Brgy. Nbbs Navotas City",
+      "contactPerson": "Cesz Santos",
+      "contactNo": "9228230927",
+      "iAddress": "Banyera St. Fishport Complex North Bay Blvd. Navotas",
+      "bAddress": "Banyera St. Fishport Complex North Bay Blvd. Navotas"
+    },
+    {
+      "clientId": 161,
+      "clientName": "SB DZ Panther",
+      "clientLoc": "Echague, Isabela (Garage near Magnolia plant)",
+      "contactPerson": "Chedrick Uy",
+      "contactNo": "9771568839",
+      "iAddress": "Echague, Isabela",
+      "bAddress": "Echague, Isabela"
+    },
+    {
+      "clientId": 162,
+      "clientName": "SB Luckybee",
+      "clientLoc": "San Jacinto, Pangasinan",
+      "contactPerson": "Ms. Cariza / Ms. Rachelle",
+      "contactNo": "9338104255",
+      "iAddress": "San Jacinto, Pangasinan",
+      "bAddress": "Mandaluyong City"
+    },
+    {
+      "clientId": 163,
+      "clientName": "Polinar Trucking",
+      "clientLoc": "Purok 13 Poblacion Valencia City, Iligan",
+      "contactPerson": "Procopio C. Polinar",
+      "contactNo": "9153039221",
+      "iAddress": "Purok 13 Poblacion Valencia City, Iligan",
+      "bAddress": "Purok 13 Poblacion Valencia City, Iligan"
+    },
+    {
+      "clientId": 164,
+      "clientName": "CHA MP De Leon Trucking Services",
+      "clientLoc": "CRG Compound,La Fuente Sta. Rosa Nueva Ecija",
+      "contactPerson": "Joven Mercado",
+      "contactNo": "9179866450",
+      "iAddress": "CRG Compound,La Fuente Sta. Rosa Nueva Ecija",
+      "bAddress": "CRG Compound,La Fuente Sta. Rosa Nueva Ecija"
+    },
+    {
+      "clientId": 165,
+      "clientName": "CHA RMAKI Enterprises",
+      "clientLoc": "35-A Saint Andrew Street, Remerville Subd., Brgy. Baesa, Project 8 Quezon City",
+      "contactPerson": "Ronald Gayos",
+      "contactNo": "9328879568",
+      "iAddress": "35-A Saint Andrew Street, Remerville Subd., Brgy. Baesa, Project 8 Quezon City",
+      "bAddress": "35-A Saint Andrew Street, Remerville Subd., Brgy. Baesa, Project 8 Quezon City"
+    },
+    {
+      "clientId": 166,
+      "clientName": "CHA Marlon \u0026 Nene Poultry Farm",
+      "clientLoc": "Las Pinas, Penaranda, Nueva Ecija",
+      "contactPerson": "Marlon P. Mallari",
+      "contactNo": "943709355",
+      "iAddress": "Las Pinas, Penaranda, Nueva Ecija",
+      "bAddress": "Las Pinas, Penaranda, Nueva Ecija"
+    },
+    {
+      "clientId": 167,
+      "clientName": "CHA Dimitri Logistics \u0026 Hauling Corporation",
+      "clientLoc": "McArthur Hiway, Brgy. Dolores Capas, Tarlac",
+      "contactPerson": "JM Corpuz",
+      "contactNo": "9171375387",
+      "iAddress": "McArthur Hiway, Brgy. Dolores Capas, Tarlac",
+      "bAddress": "McArthur Hiway, Brgy. Dolores Capas, Tarlac"
+    },
+    {
+      "clientId": 168,
+      "clientName": "CHA CJD Transport",
+      "clientLoc": "165 Tibagan Bustos, Bulacan, Miranda Clinic",
+      "contactPerson": "Christopher Dela Cruz",
+      "contactNo": "9237047381",
+      "iAddress": "165 Tibagan Bustos, Bulacan, Miranda Clinic",
+      "bAddress": "165 Tibagan Bustos, Bulacan, Miranda Clinic"
+    },
+    {
+      "clientId": 169,
+      "clientName": "CHA Fix \u0026 Serve Enterprises",
+      "clientLoc": "Sitio Dalan Matua, Maliwalo, Tarlac City",
+      "contactPerson": "Arnold T. Dela Cruz",
+      "contactNo": "932878082",
+      "iAddress": "Sitio Dalan Matua, Maliwalo, Tarlac City",
+      "bAddress": "Sitio Dalan Matua, Maliwalo, Tarlac City"
+    },
+    {
+      "clientId": 170,
+      "clientName": "CHA Mark Trucking",
+      "clientLoc": "Pinagkawitan, Lipa City, Batangas",
+      "contactPerson": "Mark Ramiro",
+      "contactNo": "919891394",
+      "iAddress": "Pinagkawitan, Lipa City, Batangas",
+      "bAddress": "Pinagkawitan, Lipa City, Batangas"
+    },
+    {
+      "clientId": 171,
+      "clientName": "Mayor Efren Pascual Jr.",
+      "clientLoc": "Municipality of Orani, Bataan",
+      "contactPerson": "Vic Esclamador",
+      "contactNo": "9053686711",
+      "iAddress": "Orani, Bataan",
+      "bAddress": "Municipality of Orani, Bataan"
+    },
+    {
+      "clientId": 172,
+      "clientName": "Power A and Enterprise Trucking",
+      "clientLoc": "Central Catmon Sta. Maria Bulacan",
+      "contactPerson": "Ernesto San Diego",
+      "contactNo": "9338178656",
+      "iAddress": "Central Catmon Sta. Maria Bulacan",
+      "bAddress": "Central Catmon Sta. Maria Bulacan"
+    },
+    {
+      "clientId": 174,
+      "clientName": "Hillcumorah Trucking Service",
+      "clientLoc": "#348 Purok Maligaya, Cardona, Gerona, Tarlac",
+      "contactPerson": "Ricardo C. Renia Jr.",
+      "contactNo": "9178117460",
+      "iAddress": "#348 Purok Maligaya, Cardona, Gerona, Tarlac",
+      "bAddress": "#348 Purok Maligaya, Cardona, Gerona, Tarlac"
+    },
+    {
+      "clientId": 175,
+      "clientName": "Ms. Felisa Mendoza",
+      "clientLoc": "250 Zaragoza St. Tondo Manila",
+      "contactPerson": "Felisa Mendoza",
+      "contactNo": "9324779458",
+      "iAddress": "Felisa Mendoza",
+      "bAddress": "250 Zaragoza St. Tondo Manila"
+    },
+    {
+      "clientId": 176,
+      "clientName": "Gainswell Marketing",
+      "clientLoc": "40, Data Street, Barangay Don Manuel, Quezon City",
+      "contactPerson": "Nerisasa Mahilum",
+      "contactNo": "9178672366",
+      "iAddress": "40, Data Street, Barangay Don Manuel, Quezon City",
+      "bAddress": "40, Data Street, Barangay Don Manuel, Quezon City"
+    },
+    {
+      "clientId": 177,
+      "clientName": "DEMO Vision Properties",
+      "clientLoc": "Novaliches Quezon City",
+      "contactPerson": "none",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 179,
+      "clientName": "RSDoctora Enterprise",
+      "clientLoc": "47B Silangan Street, Doctoras Compound Mayapa Calamba City",
+      "contactPerson": "Renz Doctora",
+      "contactNo": "9168568512",
+      "iAddress": "47B Silangan Street, Doctoras Compound Mayapa Calamba City",
+      "bAddress": "47B Silangan Street, Doctoras Compound Mayapa Calamba City"
+    },
+    {
+      "clientId": 180,
+      "clientName": "Earth20 Trading ",
+      "clientLoc": "Earth20 Inc. 38 Northbay Blvd., Navotas City",
+      "contactPerson": "Gina Rivera\t\t\t\t\t\t",
+      "contactNo": "9770234536",
+      "iAddress": "Earth20 Inc. 38 Northbay Blvd., Navotas ",
+      "bAddress": "Earth20 Inc. 38 Northbay Blvd., Navotas "
+    },
+    {
+      "clientId": 181,
+      "clientName": "CHA Soriano Jimenez Enterprises",
+      "clientLoc": "902 Pag-asa, Tibag Tarlac City",
+      "contactPerson": "Andrea Jimenez",
+      "contactNo": "9988839880",
+      "iAddress": "902 Pag-asa, Tibag Tarlac City",
+      "bAddress": "902 Pag-asa, Tibag Tarlac City"
+    },
+    {
+      "clientId": 182,
+      "clientName": "LGU Caloocan",
+      "clientLoc": "Leviste St. Makati City",
+      "contactPerson": "Timmy Evangelista",
+      "contactNo": "9188881235",
+      "iAddress": "Leviste St. Makati City",
+      "bAddress": "Leviste St. Makati City"
+    },
+    {
+      "clientId": 183,
+      "clientName": "RV Pile Enterprise",
+      "clientLoc": "San Rafael, San Roque Bulacan",
+      "contactPerson": "Ron Villacorte",
+      "contactNo": "9325667131",
+      "iAddress": "San Rafael, San Roque Bulacan",
+      "bAddress": "San Rafael, San Roque Bulacan"
+    },
+    {
+      "clientId": 184,
+      "clientName": "Vantiv Systems Phils. Inc",
+      "clientLoc": "Room 412 West City Plaza Bldg #66 West Avenue, Quezon City",
+      "contactPerson": "Mr. Leonardo Q. Villafranca",
+      "contactNo": "9999483486",
+      "iAddress": "none",
+      "bAddress": "none",
+      "tin": "none"
+    },
+    {
+      "clientId": 185,
+      "clientName": "OMNI Aviation Corporation",
+      "clientLoc": "OMNI Aviation Corporation Manuel A. Roxas Highway Clark Freeport, Clarkfield Pampanga Philippines",
+      "contactPerson": "Capt. Eleazar M. Cayago",
+      "contactNo": "9175501128",
+      "iAddress": "OMNI Aviation Corporation Manuel A. Roxas Highway Clark Freeport, Clarkfield Pampanga Philippines",
+      "bAddress": "OMNI Aviation Corporation Manuel A. Roxas Highway Clark Freeport, Clarkfield Pampanga Philippines"
+    },
+    {
+      "clientId": 186,
+      "clientName": "Department of Agriculture",
+      "clientLoc": "Headquarters, QC Circle",
+      "contactPerson": "Leonardo Villafranca",
+      "contactNo": "9999483486",
+      "iAddress": "Headquarters, QC Circle",
+      "bAddress": "Room 412 West City Plaza Bldg #66 West Avenue, Quezon City"
+    },
+    {
+      "clientId": 187,
+      "clientName": "Cha Erhys Trucking",
+      "clientLoc": "La Fuente, Sta. Rosa, Nueva Ecija",
+      "contactPerson": "Amipola Manal",
+      "contactNo": "9237368279",
+      "iAddress": "La Fuente, Sta. Rosa, Nueva Ecija",
+      "bAddress": "La Fuente, Sta. Rosa, Nueva Ecija"
+    },
+    {
+      "clientId": 189,
+      "clientName": "TRANSMIX BUILDERS \u0026 CONSTRUCTION INC.",
+      "clientLoc": "Infront of Washington Place Dasmarinas Cavite along Aguinaldo Hiway near Silang",
+      "contactPerson": "Sir. Andy Reyes",
+      "contactNo": "9186901735",
+      "iAddress": "Infront of Washington Place Dasmarinas Cavite along Aguinaldo Hiway near Silang",
+      "bAddress": "Sumulong Highway, Antipolo City, Rizal"
+    },
+    {
+      "clientId": 190,
+      "clientName": "CHA WDS Logistic",
+      "clientLoc": "Sto. Nino gapan City Nueva Ecija",
+      "contactPerson": "none",
+      "iAddress": "none",
+      "bAddress": "none"
+    },
+    {
+      "clientId": 191,
+      "clientName": "WDS Logistic and Leasing",
+      "clientLoc": "Sto. Nino gapan City Nueva Ecija",
+      "contactPerson": "Alona Delos Santos",
+      "contactNo": "9258131904",
+      "iAddress": "Sto. Nino gapan City Nueva Ecija",
+      "bAddress": "Sto. Nino gapan City Nueva Ecija"
+    },
+    {
+      "clientId": 192,
+      "clientName": "CHA Leny Macamos Lagmay Enterprises",
+      "clientLoc": "Carino Paniqui Tarlac",
+      "contactPerson": "Leny Macamos Lagmay",
+      "contactNo": "9187984808",
+      "iAddress": "Carino Paniqui Tarlac",
+      "bAddress": "Carino Paniqui Tarlac"
+    },
+    {
+      "clientId": 193,
+      "clientName": "SB Jherwinn",
+      "clientLoc": "Sta. Maria, Bulacan",
+      "contactPerson": "Ludy Mae",
+      "contactNo": "9231338482",
+      "iAddress": "Sta. Maria, Bulacan",
+      "bAddress": "Sta. Maria, Bulacan"
+    },
+    {
+      "clientId": 194,
+      "clientName": "ALPHA Healthy Options",
+      "clientLoc": "2/F Topy’s Place #3 Economia St. Corner Calle Industria Bagumbayan Libis Q.C.",
+      "contactPerson": "Vincent John Q. Abne",
+      "contactNo": "9175219967",
+      "iAddress": "2/F Topy’s Place #3 Economia St. Corner Calle Industria Bagumbayan Libis Q.C.",
+      "bAddress": "MGO"
+    },
+    {
+      "clientId": 195,
+      "clientName": "CHA REDEN \u0026 LEA TRUCKING SERVICES",
+      "clientLoc": "114 San Felipe Padre Garcia Batangas",
+      "contactPerson": "RL MACASAET",
+      "contactNo": "9298357940",
+      "iAddress": "GERONA, TARLAC",
+      "bAddress": "GERONA, TARLAC"
+    },
+    {
+      "clientId": 196,
+      "clientName": "Golden Voyage Logistic",
+      "clientLoc": "Golden Voyage Trucking Compound, Purok Hangga, Longos, Malolos City, Bulacan",
+      "contactPerson": "Tess Sanchez",
+      "contactNo": "9228019207",
+      "iAddress": "Santo Domingo II, Capas Tarlac",
+      "bAddress": "185 Capt Lucero St, San Pablo, Malolos Bulacan"
+    },
+    {
+      "clientId": 197,
+      "clientName": "CHA GOLDEN Voyage",
+      "clientLoc": "Brgy. Malapit, San Isidro, Nueva Ecija (near church)",
+      "contactPerson": "Tess Sanchez",
+      "contactNo": "9228019207",
+      "iAddress": "Brgy. Malapit, San Isidro, Nueva Ecija (near church)",
+      "bAddress": "Brgy. Malapit, San Isidro, Nueva Ecija (near church)"
+    },
+    {
+      "clientId": 198,
+      "clientName": "CHA Van Van Trucking",
+      "clientLoc": "1103 Blk.9 San Nicolas Tarlac City",
+      "contactPerson": "Edsel Lim",
+      "contactNo": "9257811688",
+      "iAddress": "1103 Blk.9 San Nicolas Tarlac City",
+      "bAddress": "1103 Blk.9 San Nicolas Tarlac City"
+    },
+    {
+      "clientId": 199,
+      "clientName": "AF Sebastian Construction \u0026 Trading",
+      "clientLoc": "Villa Perpetua Subd. Matatalaib Tarlac City",
+      "contactPerson": "Eddie Sarate",
+      "contactNo": "9185871474",
+      "iAddress": "Santo Domingo II, Capas Tarlac",
+      "bAddress": "Villa Perpetua Subd. Matatalaib Tarlac City"
+    },
+    {
+      "clientId": 200,
+      "clientName": "La Salle Lipa",
+      "clientLoc": "1962 J.P. Laurel National Highway, Poblacion, Lipa, 4217 Batangas",
+      "contactPerson": "Paulo Jeromme Lescano",
+      "contactNo": "9173209332",
+      "iAddress": "1962 J.P. Laurel National Highway, Poblacion, Lipa, 4217 Batangas",
+      "bAddress": "1962 J.P. Laurel National Highway, Poblacion, Lipa, 4217 Batangas"
+    },
+    {
+      "clientId": 201,
+      "clientName": "Global Acceleration",
+      "clientLoc": "JCF Compound LC5 Road City Heights General Santos City",
+      "contactPerson": "LottyJabay",
+      "contactNo": "9363216579",
+      "iAddress": "JCF Compound LC5 Road City Heights General Santos City",
+      "bAddress": "JCF Compound LC5 Road City Heights General Santos City"
+    },
+    {
+      "clientId": 202,
+      "clientName": "R Reamico Corporation",
+      "clientLoc": "873 Villa Angelina Subdivision Sto.Domingo 2nd Capas,Tarlac",
+      "contactPerson": "Angelo Reamico",
+      "contactNo": "9212515817",
+      "iAddress": "Santo Domingo II, Capas Tarlac",
+      "bAddress": "Santo Domingo II, Capas Tarlac"
+    },
+    {
+      "clientId": 203,
+      "clientName": "BYX Trucking",
+      "clientLoc": "#5 Magnesium St. Goldenale Village 1 Tinajeros Malabon City",
+      "contactPerson": "Sir Charlie",
+      "contactNo": "9467430161",
+      "iAddress": "#5 Magnesium St. Goldenale Village 1 Tinajeros Malabon City",
+      "bAddress": "#5 Magnesium St. Goldenale Village 1 Tinajeros Malabon City"
+    },
+    {
+      "clientId": 204,
+      "clientName": "Below Zero Ice Plant",
+      "clientLoc": "23 J.P. Rizal Street Brgy. Dos Cabuyao, Laguna City",
+      "contactPerson": "Ms. Noemi Sevilla",
+      "contactNo": "9437074863",
+      "iAddress": "23 J.P. Rizal Street Cabuyao Laguna",
+      "bAddress": "23 J.P. Rizal Street Cabuyao Laguna"
+    },
+    {
+      "clientId": 205,
+      "clientName": "Coca Cola Beverages Philippines Inc.",
+      "clientLoc": "Davao Distribution Center",
+      "contactPerson": "Sir Alfeo Canales",
+      "contactNo": "9177034518"
+    },
+    {
+      "clientId": 206,
+      "clientName": "JME SUPREME INTERNATIONAL INC",
+      "clientLoc": "JME Supreme Warehouse 2 641 T.Santiago St., Industrial Compound, Brgy. Lingunan, Valenzuela City",
+      "contactPerson": "Grace Akira Maquinang",
+      "contactNo": "9669781382",
+      "iAddress": "JME Supreme Warehouse 2 641 T.Santiago St., Industrial Compound, Brgy. Lingunan, Valenzuela City",
+      "bAddress": "Unit 1802 West Trade Center, 132 West Avenue, Brgy. Philam, Quezon City."
+    },
+    {
+      "clientId": 207,
+      "clientName": "CHA CP Claveria Transport Services",
+      "clientLoc": "174 Brgy. Catandala, Ibaan Batangas",
+      "contactPerson": "Camilo Claveria",
+      "contactNo": "9199916676",
+      "iAddress": "174 Brgy. Catandala, Ibaan Batangas",
+      "bAddress": "174 Brgy. Catandala, Ibaan Batangas"
+    },
+    {
+      "clientId": 208,
+      "clientName": "Multigas/Entragas",
+      "clientLoc": "South Pacific Terminal Inc. Brgy. Quisumbing, Calaca Batangas",
+      "contactPerson": "Joanna",
+      "contactNo": "9193176293",
+      "iAddress": "South Pacific Terminal Inc. Brgy. Quisumbing, Calaca Batangas",
+      "bAddress": "Atty Ty, Strata 100 Bldg, Suite 1300 F. Ortigas Jr Road Ortigas Center Pasig City"
+    },
+    {
+      "clientId": 209,
+      "clientName": "CHA AF Sebastian",
+      "clientLoc": "Villa Perpetua Subd. Brgy. Matatalaib, Tarlac City",
+      "contactPerson": "Del Sebastian",
+      "contactNo": "9498950263",
+      "iAddress": "Villa Perpetua Subd. Brgy. Matatalaib, Tarlac City",
+      "bAddress": "Villa Perpetua Subd. Brgy. Matatalaib, Tarlac City"
+    },
+    {
+      "clientId": 210,
+      "clientName": "SB Lyka",
+      "clientLoc": "Service Road Near Lawang Bato Exit, Valenzuela City",
+      "contactPerson": "Jhun Santos",
+      "contactNo": "9325729495",
+      "iAddress": "Service Road Near Lawang Bato Exit, Valenzuela City",
+      "bAddress": "8th Flr Rm. 804 Globe Telecom Plaza, Madison St. Mandaluyong City"
+    },
+    {
+      "clientId": 211,
+      "clientName": "CHA Jarmar Poultry Supply",
+      "clientLoc": "Villa Catrina Sto. Nino Baliwag Bulacan",
+      "contactPerson": " PORFIRIO D. BAYLON JR",
+      "contactNo": "9228251886",
+      "iAddress": "Villa Catrina Sto. Nino Baliwag Bulacan",
+      "bAddress": "Villa Catrina Sto. Nino Baliwag Bulacan"
+    },
+    {
+      "clientId": 212,
+      "clientName": "Zenith International Philippines, Inc.",
+      "clientLoc": "#78 5th ave C3 road wesrt Grace park Caloocan City",
+      "contactPerson": "Mickey",
+      "contactNo": "9159315563",
+      "iAddress": "#78 5th ave C3 road wesrt Grace park Caloocan City",
+      "bAddress": "#78 5th ave C3 road wesrt Grace park Caloocan City"
+    },
+    {
+      "clientId": 213,
+      "clientName": "SB Adrine",
+      "clientLoc": "Tungkong Mangga Road, Sta. Maria, Bulacan",
+      "contactPerson": "Marissa Gonzales",
+      "contactNo": "9334045062",
+      "iAddress": "Tungkong Mangga Road, Sta. Maria, Bulacan",
+      "bAddress": "8th Flr Rm. 804 Globe Telecom Plaza, Madison St. Mandaluyong City"
+    },
+    {
+      "clientId": 214,
+      "clientName": "Great Sierra Development Corporation (DEMO)",
+      "clientLoc": "Vasquez Compound, Brgy. Minuyan Norzagaray Bulacan",
+      "contactPerson": "Lawrence",
+      "iAddress": "Vasquez Compound, Brgy. Minuyan Norzagaray Bulacan",
+      "bAddress": "Vasquez Compound, Brgy. Minuyan Norzagaray Bulacan"
+    },
+    {
+      "clientId": 215,
+      "clientName": "Golden Gate Security \u0026 Investigation Services Inc",
+      "clientLoc": "5th Floor MCV Bldg. 888 Banawe St. Quezon City",
+      "contactPerson": "Ms. Rosa Del Rio",
+      "contactNo": "9176260171",
+      "iAddress": "5th Floor MCV Bldg. 888 Banawe St. Quezon City",
+      "bAddress": "5th Floor MCV Bldg. 888 Banawe St. Quezon City"
+    },
+    {
+      "clientId": 216,
+      "clientName": "Romared Cargo Movers Corp.",
+      "clientLoc": "003 Tibag Pulilan Bulacan",
+      "contactPerson": "Ms. Juvy",
+      "contactNo": "9338181592",
+      "bAddress": "#003 Tibag Pulilan Bulacan"
+    },
+    {
+      "clientId": 217,
+      "clientName": "Alpha Aviation Group",
+      "clientLoc": "1092 Jose Abad Santos Ave. Clark Pampanga",
+      "contactPerson": " ",
+      "iAddress": "1092 Jose Abad Santos Ave. Clark Pampanga",
+      "bAddress": "1092 Jose Abad Santos Ave. Clark Pampanga"
+    },
+    {
+      "clientId": 218,
+      "clientName": "SSI Group",
+      "clientLoc": "km23 west service road, brgy cupang, muntinlupa city",
+      "contactPerson": "BA Mariano",
+      "contactNo": "9985619117",
+      "iAddress": "km23 west service road, brgy cupang, muntinlupa city",
+      "bAddress": "km23 west service road, brgy cupang, muntinlupa city"
+    },
+    {
+      "clientId": 219,
+      "clientName": "PHILIPPINE SOUTHWEST CEBU CONSTRUCTION \u0026 MARINE SERVICES CO. (PSCC)",
+      "clientLoc": "Petron, Pondol, Balamban Cebu",
+      "contactPerson": "Te-Ann Baylosis",
+      "contactNo": "9173116625",
+      "iAddress": "Petron, Pondol, Balamban Cebu",
+      "bAddress": "Petron, Pondol, Balamban Cebu"
+    },
+    {
+      "clientId": 220,
+      "clientName": "Automatica Engineering Enterprises",
+      "clientLoc": "Upper Lilingayon Valencia, Bukidnon ",
+      "contactPerson": "Chino Espinosa",
+      "contactNo": "9178082687",
+      "iAddress": "Upper Lilingayon Valencia, Bukidnon ",
+      "bAddress": "Upper Lilingayon Valencia, Bukidnon "
+    },
+    {
+      "clientId": 221,
+      "clientName": "SB JDC Trucking",
+      "clientLoc": "Echague, Isabela",
+      "contactPerson": "Neneth Dela Cruz",
+      "contactNo": "9228196220",
+      "iAddress": "Echague, Isabela",
+      "bAddress": "8th Flr Rm. 804 Globe Telecom Plaza, Madison St. Mandaluyong City"
+    },
+    {
+      "clientId": 222,
+      "clientName": "SB RAD Trucking",
+      "clientLoc": "P-7 Buenavista, Santiago City, Isabela",
+      "contactPerson": "Bobet/Violeta Maramba",
+      "contactNo": "9274013330",
+      "iAddress": "P-7 Buenavista, Santiago City, Isabela",
+      "bAddress": "8th Flr Rm. 804 Globe Telecom Plaza, Madison St. Mandaluyong City"
+    },
+    {
+      "clientId": 223,
+      "clientName": "Golden Axel Cargo",
+      "clientLoc": "Garage no. 27 Governor\u0027s Pascual Avenue Brgy. Catmon Malabon City.",
+      "contactPerson": "Roldan Barrera",
+      "contactNo": "9175059447",
+      "iAddress": "Garage no. 27 Governor\u0027s Pascual Avenue Brgy. Catmon Malabon City.",
+      "bAddress": "Garage no. 27 Governor\u0027s Pascual Avenue Brgy. Catmon Malabon City."
+    },
+    {
+      "clientId": 224,
+      "clientName": "Cha LINDON ENTERPRISES",
+      "clientLoc": "No. 166 Brgy. Bonga Menor, Bustos, Bulacan (near draco gasoline station and chapel of the cross)",
+      "contactPerson": "Lamberto R. Resurreccion",
+      "contactNo": "9328914784",
+      "iAddress": "No. 166 Brgy. Bonga Menor, Bustos, Bulacan (near draco gasoline station and chapel of the cross)",
+      "bAddress": "No. 166 Brgy. Bonga Menor, Bustos, Bulacan (near draco gasoline station and chapel of the cross)"
+    },
+    {
+      "clientId": 225,
+      "clientName": "Cha F Geronimo Enterprises",
+      "clientLoc": "115 P. Burgos St. Poblacion Sta. Maria Bulacan",
+      "contactPerson": "Mr. Francis Ray Xavier Halili Geronimo",
+      "contactNo": "9175744441",
+      "iAddress": "115 P. Burgos St. Poblacion Sta. Maria Bulacan",
+      "bAddress": "115 P. Burgos St. Poblacion Sta. Maria Bulacan"
+    },
+    {
+      "clientId": 226,
+      "clientName": "Cha Rombe Philippines Corp",
+      "clientLoc": "Km. 47, Dampol 1st, Pulilan Bulacan",
+      "contactPerson": "Romy Evangelista",
+      "contactNo": "9236582161",
+      "iAddress": "Km. 47, Dampol 1st, Pulilan Bulacan",
+      "bAddress": "Km. 47, Dampol 1st, Pulilan Bulacan"
+    },
+    {
+      "clientId": 227,
+      "clientName": "RB Garcia",
+      "clientLoc": "Sto. Domingo II Capas Tarlac",
+      "contactPerson": "Ric Garcia",
+      "contactNo": "9211744528",
+      "iAddress": "Sto. Domingo II Capas Tarlac",
+      "bAddress": "Villa Angelina Subd. Sto. Domingo II Capas Tarlac"
+    },
+    {
+      "clientId": 228,
+      "clientName": "WinCorp",
+      "clientLoc": "852 E Rodriguez Jr Ave Bagumbayan Quezon City",
+      "contactPerson": "Dustin Ng",
+      "contactNo": "9178076843",
+      "iAddress": "852 E Rodriguez Jr Ave Bagumbayan Quezon City",
+      "bAddress": "852 E Rodriguez Jr Ave Bagumbayan Quezon City"
+    },
+    {
+      "clientId": 229,
+      "clientName": "FILMETCO Industrial Inc.",
+      "clientLoc": "San Simon, Pampanga",
+      "contactPerson": "Adrian Choi",
+      "contactNo": "9338149809",
+      "iAddress": "San Simon, Pampanga",
+      "bAddress": "San Simon, Pampanga"
+    },
+    {
+      "clientId": 230,
+      "clientName": "Cha Fhernie Cargo Forwarder",
+      "clientLoc": "998 Brgy. Sampaga San Vicente Apalit Pampanga",
+      "contactPerson": "Lailani C. Tungol",
+      "contactNo": "9399376154",
+      "iAddress": "998 Brgy. Sampaga San Vicente Apalit Pampanga",
+      "bAddress": "998 Brgy. Sampaga San Vicente Apalit Pampanga"
+    },
+    {
+      "clientId": 231,
+      "clientName": "MGS Construction Inc.",
+      "clientLoc": "MGS Project 1, Buzzard Rd., Meadows 1, Daang Hari, Bacoor, Cavite",
+      "contactPerson": "Ray Vincent Gamboa",
+      "iAddress": "MGS Project 1, Buzzard Rd., Meadows 1, Daang Hari, Bacoor, Cavite",
+      "bAddress": "2F Starmall Annex, Alabang-Zapote Rd Las Piñas"
+    },
+    {
+      "clientId": 232,
+      "clientName": "CHA Mamerga Rice Mill",
+      "clientLoc": "Prov\u0027l road Pob. Norte, Mayantoc Tarlac 2304",
+      "contactPerson": "MR. FRANCISCO MAMERGA",
+      "contactNo": "9253669888",
+      "iAddress": "Prov\u0027l road Pob. Norte, Mayantoc Tarlac 2304",
+      "bAddress": "Prov\u0027l road Pob. Norte, Mayantoc Tarlac 2304"
+    },
+    {
+      "clientId": 233,
+      "clientName": "CHA RA Aceret Enterprises",
+      "clientLoc": "33 Rosariosville Capitol Garden San Roque Tarlac City",
+      "contactPerson": "ENGR. ROSALINO “JUN” ACERET JR.",
+      "contactNo": "9399165548",
+      "iAddress": "33 Rosariosville Capitol Garden San Roque Tarlac City",
+      "bAddress": "33 Rosariosville Capitol Garden San Roque Tarlac City"
+    },
+    {
+      "clientId": 234,
+      "clientName": "Cha MACAPAYAG TRUCKING \u0026 CONSTRUCTION SUPPLIES",
+      "clientLoc": "Mac Arthur Highway Blk. 4 Sta. Cruz Tarlac City",
+      "contactPerson": "Sonny Macapayag",
+      "contactNo": "9216324988",
+      "iAddress": "Mac Arthur Highway Blk. 4 Sta. Cruz Tarlac City",
+      "bAddress": "Mac Arthur Highway Blk. 4 Sta. Cruz Tarlac City"
+    },
+    {
+      "clientId": 235,
+      "clientName": "Derrick Villanueva",
+      "clientLoc": "Ph 3 Royal View Mansion 242 Lt. Artiaga St. San Juan, Metro Manila",
+      "contactPerson": "Derrick Villanueva",
+      "contactNo": "9228856317",
+      "iAddress": "Ph 3 Royal View Mansion 242 Lt. Artiaga St. San Juan, Metro Manila"
+    },
+    {
+      "clientId": 236,
+      "clientName": "Scheirman \u0026 Cruz Property Holdings Inc.",
+      "clientLoc": "Unit 202 Forage Bldg. Mayor Gil Fernando Avenue Brgy. Sto. Nino Marikina City\t",
+      "contactPerson": "Princess Wella Belen",
+      "contactNo": "9565199051",
+      "iAddress": "Unit 202 Forage Bldg. Mayor Gil Fernando Avenue Brgy. Sto. Nino Marikina City\t",
+      "bAddress": "Unit 202 Forage Bldg. Mayor Gil Fernando Avenue Brgy. Sto. Nino Marikina City\t"
+    },
+    {
+      "clientId": 237,
+      "clientName": "Mov N Cool Corporation",
+      "clientLoc": "No.120 San Francisco St. Brgy. Plainview, Mandaluyong City",
+      "contactPerson": "Michelle Barrion",
+      "contactNo": "9173926884",
+      "iAddress": "No.120 San Francisco St. Brgy. Plainview, Mandaluyong City",
+      "bAddress": "No.120 San Francisco St. Brgy. Plainview, Mandaluyong City"
+    },
+    {
+      "clientId": 238,
+      "clientName": "CHA Konzi Trucking and Trading",
+      "clientLoc": "589 Bmenor Bustos Bulacan",
+      "contactPerson": "Miel Galvez",
+      "contactNo": "9178545727",
+      "iAddress": "589 Bmenor Bustos Bulacan",
+      "bAddress": "589 Bmenor Bustos Bulacan"
+    },
+    {
+      "clientId": 239,
+      "clientName": "CHA Fixro Corporation",
+      "clientLoc": "San Roque Gapan City Nueva Ecija",
+      "contactPerson": "Irish Lacsamana",
+      "contactNo": "9178961725",
+      "iAddress": "San Roque Gapan City Nueva Ecija",
+      "bAddress": "San Roque Gapan City Nueva Ecija"
+    },
+    {
+      "clientId": 240,
+      "clientName": "South Sea Development Corporation",
+      "contactPerson": "George Bolante",
+      "contactNo": "9177090872",
+      "iAddress": "Subic Grain"
+    },
+    {
+      "clientId": 241,
+      "clientName": "Cha KARYADA TRANSPORT SERVICE",
+      "clientLoc": "976 dr. Fabella st. Brgy. Plainview, Mandaluyong",
+      "contactPerson": "Manny Ocsan",
+      "contactNo": "9177104683",
+      "iAddress": "976 dr. Fabella st. Brgy. Plainview, Mandaluyong",
+      "bAddress": "976 dr. Fabella st. Brgy. Plainview, Mandaluyong"
+    },
+    {
+      "clientId": 243,
+      "clientName": "CHA Across Borders Logistics and Transport Services",
+      "clientLoc": "038 Maharlika Hiway Tibag Pulilan Bulacan",
+      "contactPerson": "Sarah Crizelle Garcia",
+      "contactNo": "9178655877",
+      "iAddress": "038 Maharlika Hiway Tibag Pulilan Bulacan",
+      "bAddress": "038 Maharlika Hiway Tibag Pulilan Bulacan"
+    },
+    {
+      "clientId": 244,
+      "clientName": "CHA Satelite Enterprises",
+      "clientLoc": "#3 Bonga Mayor, Bustos, Bulacan",
+      "contactPerson": "Rosalie Cuerteros",
+      "contactNo": "9234020385",
+      "iAddress": "#3 Bonga Mayor, Bustos, Bulacan",
+      "bAddress": "#3 Bonga Mayor, Bustos, Bulacan"
+    },
+    {
+      "clientId": 245,
+      "clientName": "Mr. Junie Jalandoni",
+      "clientLoc": "El Nido, Palawan",
+      "contactPerson": "Captain Telio",
+      "contactNo": "9105124488"
+    },
+    {
+      "clientId": 247,
+      "clientName": "Calma Agri Products Supply and Trucking Service",
+      "clientLoc": "289 5JR Bldg Musni, San Jose, San Luis Pampanga",
+      "contactPerson": "Raquel Camacho",
+      "contactNo": "9275543088"
+    },
+    {
+      "clientId": 248,
+      "clientName": "Cha ALT Trading",
+      "clientLoc": "Sta. Rosa 1 Marilao Bulacan",
+      "contactPerson": "Jannice",
+      "contactNo": "9258675449",
+      "iAddress": "Sta. Rosa 1 Marilao Bulacan",
+      "bAddress": "Sta. Rosa 1 Marilao Bulacan"
+    },
+    {
+      "clientId": 249,
+      "clientName": "Cargill Joy Poultry Meats Production, Inc.",
+      "clientLoc": "Sto. Tomas, Batangas",
+      "contactPerson": "Leizel Birondo",
+      "contactNo": "9176307653"
+    },
+    {
+      "clientId": 250,
+      "clientName": "Express Airfreight Movers Co., Inc.",
+      "clientLoc": "Unit 2016 VVS Building Multinational Access Road Multinational Village, Paranaque",
+      "contactPerson": "Kent Francis Minoza",
+      "contactNo": "9478905160"
+    },
+    {
+      "clientId": 251,
+      "clientName": "Dr. Rafael Joson",
+      "clientLoc": "17 Maranaw St., La Vista QC 1108",
+      "contactPerson": "Mr. Rafael Joson",
+      "contactNo": "9209045934"
+    },
+    {
+      "clientId": 252,
+      "clientName": "VITA Northern Prime Trucking Solutions inc.",
+      "clientLoc": "2nd flr. Emmco Bldg. Mc. Arthur Highway,Calvario, Cuty Meycauayan Bulacan",
+      "contactPerson": "Monch Almonte",
+      "contactNo": "9178580136",
+      "iAddress": "2nd flr. Emmco Bldg. Mc. Arthur Highway,Calvario, Cuty Meycauayan Bulacan",
+      "bAddress": "2nd flr. Emmco Bldg. Mc. Arthur Highway,Calvario, Cuty Meycauayan Bulacan",
+      "tin": "9910145"
+    },
+    {
+      "clientId": 253,
+      "clientName": "VITA A\u0026L Fishpond and Hatchery Incorporated",
+      "clientLoc": "Brgy. Sampalok, Apalit Pampanga",
+      "contactPerson": "Jannice M. Sauqillo",
+      "contactNo": "9218378482",
+      "iAddress": "Brgy. Sampalok, Apalit Pampanga",
+      "bAddress": "Brgy. Sampalok, Apalit Pampanga",
+      "tin": "001332612002"
+    },
+    {
+      "clientId": 254,
+      "clientName": "VITA Maessy-Thirdy Trucking Services",
+      "clientLoc": "157 Lacuna St. Penaranda, Nueva Ecija",
+      "contactPerson": "Ronnie A. Abesamis",
+      "contactNo": "9399290378",
+      "iAddress": "157 Lacuna St. Penaranda, Nueva Ecija",
+      "bAddress": "157 Lacuna St. Penaranda, Nueva Ecija",
+      "tin": "226544966"
+    },
+    {
+      "clientId": 255,
+      "clientName": "VITA NCD Salas Logistics",
+      "clientLoc": "Poblacon San Isidro, Nueva Ecija",
+      "contactPerson": "Noel Catalino D. Salas",
+      "contactNo": "9171677569",
+      "iAddress": "Poblacon San Isidro, Nueva Ecija",
+      "bAddress": "Poblacon San Isidro, Nueva Ecija",
+      "tin": "234804718"
+    },
+    {
+      "clientId": 256,
+      "clientName": "VITA GC Farm Brothers",
+      "clientLoc": "446 Dr. Luiz Reyes St., Conception Baluiag Bulacan",
+      "contactPerson": "Eric Gonzalez",
+      "contactNo": "9176262328",
+      "iAddress": "446 Dr. Luiz Reyes St., Conception Baluiag Bulacan",
+      "bAddress": "446 Dr. Luiz Reyes St., Conception Baluiag Bulacan",
+      "tin": "010-133-260-000"
+    },
+    {
+      "clientId": 257,
+      "clientName": "CHA Roneth Transport Services",
+      "clientLoc": "Pampanga",
+      "contactPerson": "Romeo Tengco",
+      "contactNo": "9359196231",
+      "iAddress": "Pampanga",
+      "bAddress": "Pampanga"
+    },
+    {
+      "clientId": 258,
+      "clientName": "JJLL LLC",
+      "clientLoc": "Camp Aguinaldo",
+      "contactPerson": "Jeffrey Manalac",
+      "contactNo": "9178386546"
+    },
+    {
+      "clientId": 259,
+      "clientName": "POLYMER PRODUCTS (PHIL.) INC.",
+      "clientLoc": " 11 Joe Borris St., Bagong Ilog, Pasig City",
+      "contactPerson": "Lina Villanueva",
+      "contactNo": "9985836256"
+    },
+    {
+      "clientId": 260,
+      "clientName": "Orient Freight International Inc.",
+      "clientLoc": "Lyl Industrial Business Park Governor\u0027s Drive, Brgy. Bancal, Carmona Cavite",
+      "contactPerson": "Bernadette Gonzalvo",
+      "contactNo": "9602759557",
+      "iAddress": "Lyl Industrial Business Park Governor\u0027s Drive, Brgy. Bancal, Carmona Cavite",
+      "bAddress": "Makati City"
+    },
+    {
+      "clientId": 261,
+      "clientName": "CHA 5RD ENTERPRISES",
+      "clientLoc": " Lot 39 diamond st skyland estate home san isidro tarlac City",
+      "contactPerson": "Rainer diaz",
+      "contactNo": "9230814620",
+      "iAddress": " Lot 39 diamond st skyland estate home san isidro tarlac City",
+      "bAddress": " Lot 39 diamond st skyland estate home san isidro tarlac City",
+      "tin": "146-782-102"
+    },
+    {
+      "clientId": 262,
+      "clientName": "Cristi Transport",
+      "clientLoc": "Antipolo",
+      "contactPerson": "Neil Cristi",
+      "contactNo": "9175305150"
+    },
+    {
+      "clientId": 263,
+      "clientName": "LGU Rosario Cavite",
+      "clientLoc": "Lingkod Bayan Building Rosario Cavite",
+      "contactPerson": "Christopher Biloera",
+      "contactNo": "9166564056"
+    },
+    {
+      "clientId": 264,
+      "clientName": "Lubri-Chem Philippines Distributors, Inc",
+      "clientLoc": "31 General Malvar St. Brgy. Bagong Barrio Caloocan City",
+      "contactPerson": "Paul Azarias",
+      "contactNo": "9175216333"
+    },
+    {
+      "clientId": 265,
+      "clientName": "St. Francis Transport System Inc",
+      "clientLoc": "21 Basketball St. New St. Francis Village Cainta Rizal",
+      "contactPerson": "Rona Palmado",
+      "contactNo": "9178361760"
+    },
+    {
+      "clientId": 266,
+      "clientName": "Lead Logistics Innovation Inc",
+      "clientLoc": "Lot 2-7 Block 14 Mountview Industrial Complex II, Carmona Cavite",
+      "contactPerson": "Japhett Herico",
+      "contactNo": "9209629172"
+    },
+    {
+      "clientId": 267,
+      "clientName": "Sappo Hille Inc.",
+      "clientLoc": "Blk 13 Lotus, Las Pinas, Metro Manila",
+      "contactPerson": "Ms. Maya Riego",
+      "contactNo": "9071025228",
+      "iAddress": "Blk 13 Lotus, Las Pinas, Metro Manila",
+      "bAddress": "Blk 13 Lotus, Las Pinas, Metro Manila"
+    },
+    {
+      "clientId": 268,
+      "clientName": "EcoSci Food Inc",
+      "clientLoc": "V\u0026F Ice Plant Brgy. Mambugan, Sumulong Highway, Antipolo (255 Sumulong Highway on maps)",
+      "contactPerson": "Mr. Christian",
+      "contactNo": "9176280974"
+    },
+    {
+      "clientId": 269,
+      "clientName": "Wilcon Depot",
+      "clientLoc": "Wilcon Distribution Center, Brgy. San Jose, Rodriguez, Rizal",
+      "contactPerson": "Mr. Eddie Tabungar",
+      "contactNo": "9951695639"
+    },
+    {
+      "clientId": 270,
+      "clientName": "CHA KJR ENVIROGREEN CORP KJR ENVIROGREEN CORP",
+      "clientLoc": "F ABELLA RD. BRGY. KAYPIAN SAN JOSE DEL MONTE BULACAN",
+      "contactPerson": "JENNIFER LOYOLA",
+      "contactNo": "9482416067"
+    },
+    {
+      "clientId": 271,
+      "clientName": "Manuchar Philippines Inc",
+      "clientLoc": "Filinvest Technology Park",
+      "contactPerson": "Mr. Jovil",
+      "contactNo": "9178776459"
+    },
+    {
+      "clientId": 272,
+      "clientName": "AGKN Hardware",
+      "clientLoc": "LB Perez St. Brgy. Don Mariano Perez, Bayombong, Nueva Vizcaya",
+      "contactPerson": "MR. ARIEL NOSCAL",
+      "contactNo": "9778368802",
+      "iAddress": "LB Perez St. Brgy. Don Mariano Perez, Bayombong, Nueva Vizcaya",
+      "bAddress": "LB Perez St. Brgy. Don Mariano Perez, Bayombong, Nueva Vizcaya",
+      "tin": "270060794000"
+    },
+    {
+      "clientId": 273,
+      "clientName": "CHA Gian Trucking",
+      "clientLoc": "Blk 15 L22 UC2 Area G Sapang Palay San Jose Del Monte Bulacan",
+      "contactPerson": "Gina Santiago",
+      "contactNo": "9491115724",
+      "iAddress": "Blk 15 L22 UC2 Area G Sapang Palay San Jose Del Monte Bulacan",
+      "bAddress": "Blk 15 L22 UC2 Area G Sapang Palay San Jose Del Monte Bulacan",
+      "tin": "49959092000"
+    },
+    {
+      "clientId": 274,
+      "clientName": "Front Runner Philippines",
+      "clientLoc": "3F Derramas Building, Chervil St Corner Greenwoods Executive Village Pasig City",
+      "contactPerson": "Bryan Andersen Co",
+      "contactNo": "9175579276"
+    },
+    {
+      "clientId": 275,
+      "clientName": "Cha Chromann Trucking Services",
+      "clientLoc": "km 102, National Highway, Mapapalayoc, San Leonardo, Nueva Ecija",
+      "contactPerson": "Hazel Benusa",
+      "contactNo": "9999974600",
+      "iAddress": "km 102, National Highway, Mapapalayoc, San Leonardo, Nueva Ecija",
+      "bAddress": "km 102, National Highway, Mapapalayoc, San Leonardo, Nueva Ecija",
+      "tin": "156-956-141-004"
+    },
+    {
+      "clientId": 276,
+      "clientName": "Hi-Lug Trading",
+      "clientLoc": "72 C. Arellano St.,Brgy. Baritan, Malabon City",
+      "contactPerson": "Miguel Hizon",
+      "contactNo": "9190750760"
+    },
+    {
+      "clientId": 277,
+      "clientName": "FT De Guzman Trucking Services",
+      "clientLoc": "Brgy. Partida, San Miguel, Bulacan",
+      "contactPerson": "Florida De Guzman",
+      "contactNo": "9985707832",
+      "iAddress": "Brgy. Partida, San Miguel, Bulacan",
+      "bAddress": "Brgy. Partida, San Miguel, Bulacan"
+    },
+    {
+      "clientId": 278,
+      "clientName": "Supero",
+      "clientLoc": "Lot 2485, Brgy. Bucal, Amadeo, Cavite",
+      "contactPerson": "Mr. Melvin D. Cajigal",
+      "contactNo": "9177951221"
+    },
+    {
+      "clientId": 279,
+      "clientName": "Move N Carry Trucking Services",
+      "clientLoc": "2542 Cityland St. Pulong Buhangin Sta. MAria Bulacan (beside Villa Natalia Resort)",
+      "contactPerson": "Raymund Raganas",
+      "contactNo": "9209471367"
+    },
+    {
+      "clientId": 280,
+      "clientName": "LHK Creation Inc",
+      "clientLoc": "Rizal St. Brgy. Santol Mataas na Kahoy Lipa Batangas",
+      "contactPerson": "Mary Joy Cruzat",
+      "contactNo": "9305252188"
+    },
+    {
+      "clientId": 281,
+      "clientName": "Honda Motor Sports",
+      "clientLoc": "491 Yamaha Bldg. Jp Rizal, Brgy Olympia, Makati City",
+      "contactPerson": "Marwin Baldevia",
+      "contactNo": "9279534629",
+      "iAddress": "491 Yamaha Bldg. Jp Rizal, Brgy Olympia, Makati City",
+      "bAddress": "491 Yamaha Bldg. Jp Rizal, Brgy Olympia, Makati City"
+    },
+    {
+      "clientId": 282,
+      "clientName": "MGS Ready Mix Cavite Inc.,",
+      "clientLoc": "213 Molino Boulevard Brgy Bayanan, Bacoor, Cavite",
+      "contactPerson": "Sir Arvir",
+      "contactNo": "9778202315"
+    },
+    {
+      "clientId": 283,
+      "clientName": "Controlgear Electric Corporation",
+      "clientLoc": "117 RE Chico St., Brgy Sto Cristo, Baliuag, Bulacan",
+      "contactPerson": "Sir Dan",
+      "contactNo": "9233478905",
+      "iAddress": "117 RE Chico St., Brgy Sto Cristo, Baliuag, Bulacan",
+      "bAddress": "117 RE Chico St., Brgy Sto Cristo, Baliuag, Bulacan"
+    },
+    {
+      "clientId": 284,
+      "clientName": "Mrs. Estelita R. Wallace",
+      "contactPerson": "Anthony Fernandez",
+      "contactNo": "9189496898",
+      "bAddress": "209 Anahaw St. Ayala Alabang Village Muntinlupa"
+    },
+    {
+      "clientId": 285,
+      "clientName": "CHA RVVE Logistics Services",
+      "clientLoc": "Niugan, Angat Bulacan",
+      "contactPerson": "Romualdo V. Escote",
+      "contactNo": "9171608400",
+      "iAddress": "Niugan, Angat Bulacan",
+      "bAddress": "#218 Don Ambrosio, Barangay Sabang Baliuag, Bulacan ",
+      "tin": "276597466"
+    },
+    {
+      "clientId": 286,
+      "clientName": "Mr. Jose Ramon Garcia",
+      "clientLoc": "369 San Rafael st., Ayala Alabang, Muntinlupa City",
+      "contactPerson": "Mr. Jose Ramon Garcia",
+      "contactNo": "9189494444",
+      "tin": "101-291-076"
+    },
+    {
+      "clientId": 287,
+      "clientName": "MKC Marketing",
+      "clientLoc": "Dolores San Fernando, Pampanga City",
+      "contactPerson": "Mr. Adrian Choi",
+      "contactNo": "9338149809"
+    },
+    {
+      "clientId": 288,
+      "clientName": "CHA RS Millet",
+      "clientLoc": "Brgy. Calayaan, Gerona Tarlac",
+      "contactPerson": "Randy Millet",
+      "contactNo": "9194268821",
+      "iAddress": "Brgy. Calayaan, Gerona Tarlac",
+      "bAddress": "Brgy. Calayaan, Gerona Tarlac"
+    },
+    {
+      "clientId": 289,
+      "clientName": "LEFOUND TECHNOLOGY TRADING AND SERVICES",
+      "clientLoc": " Blk. 10 Lot 30 Global Aseana, San Simon Pampanga",
+      "contactPerson": "Marjorie Patilan",
+      "contactNo": "9457184564",
+      "iAddress": " Blk. 10 Lot 30 Global Aseana, San Simon Pampanga",
+      "bAddress": " Blk. 10 Lot 30 Global Aseana, San Simon Pampanga",
+      "tin": "422-970-162-004"
+    },
+    {
+      "clientId": 290,
+      "clientName": "Atty. Gregorio Larrazabal",
+      "clientLoc": "28C Luna Gardens, 21 Residential Drive, Rockwell Center, Makati City 1211",
+      "contactPerson": "Atty. Gregorio Larrazabal",
+      "contactNo": "9175380768",
+      "iAddress": "28C Luna Gardens, 21 Residential Drive, Rockwell Center, Makati City 1211",
+      "bAddress": "28C Luna Gardens, 21 Residential Drive, Rockwell Center, Makati City 1211"
+    },
+    {
+      "clientId": 291,
+      "clientName": "Rainbow Color Paint",
+      "clientLoc": "93 L Prado St. Poblacion Bustos Bulacan",
+      "contactPerson": "Ivann Escueta",
+      "contactNo": "9190091894"
+    },
+    {
+      "clientId": 292,
+      "clientName": "Tefillah Hauling Services",
+      "clientLoc": "Lot15 Blk27 Rawis Compound Tondo Manila",
+      "contactPerson": "Evelyn Pido",
+      "contactNo": "9158554717"
+    },
+    {
+      "clientId": 293,
+      "clientName": "Alpha Arc Properties",
+      "contactPerson": "Mr. Marc Ruiz",
+      "contactNo": "9173141684",
+      "iAddress": "after up town, qc - sa may balara. nawasa filter"
+    },
+    {
+      "clientId": 294,
+      "clientName": "LA PRIMERA POLLO, INC.",
+      "clientLoc": "No. 111 Pulong Gubat Balagtas, Bulacan",
+      "contactPerson": "Ms. Sol C. Luga",
+      "contactNo": "9328626397",
+      "tin": "008 145 075 000"
+    },
+    {
+      "clientId": 295,
+      "clientName": "SB FCA ERA Trucking",
+      "clientLoc": "Km. 102 Maharlika Hway Brgy. Lagalag Tiaong, Quezon",
+      "contactPerson": "Florante Alcaraz",
+      "contactNo": "9989596416",
+      "iAddress": "Km. 102 Maharlika Hway Brgy. Lagalag Tiaong, Quezon"
+    },
+    {
+      "clientId": 296,
+      "clientName": "BCAM Transport Services",
+      "clientLoc": "Unit 26 West service rd. Brgy. Cupang Alabang Muntinlupa",
+      "contactPerson": "Ms. Loramca S. Capati",
+      "contactNo": "9176512001"
+    },
+    {
+      "clientId": 297,
+      "clientName": "PNP C/Insp Rene Pamuspusan",
+      "clientLoc": "Lawton Ave. Taguig City, Metro Manila",
+      "contactPerson": "Mr. Rene Pamuspusan",
+      "contactNo": "9178478424"
+    },
+    {
+      "clientId": 298,
+      "clientName": "Genuine Builders and Enterprises Corporation",
+      "clientLoc": "Purok Azucena 1, Barangay San Pedro Dumingag, Zamboanga Del Sur",
+      "contactPerson": "Keith Pacalioga",
+      "contactNo": "9171124562"
+    },
+    {
+      "clientId": 299,
+      "clientName": "VNS Logistics Services",
+      "clientLoc": "Cemex Antipolo, kalye putol, brgy San Jose",
+      "contactPerson": "Ms. Merly Marquez",
+      "contactNo": "9266187732"
+    },
+    {
+      "clientId": 300,
+      "clientName": "CHA C.M Policarpio Trucking Services",
+      "clientLoc": "Brgy. San Roque, Gapan City Nueva Ecija",
+      "contactPerson": "Carmelo Policarpio",
+      "contactNo": "9338234842"
+    },
+    {
+      "clientId": 301,
+      "clientName": "Peaksun Enterprises \u0026 Export Corp",
+      "clientLoc": "Brgy. Minuyan, Norzagaray Bulacan",
+      "contactPerson": "Ms. Charlene Rayo",
+      "contactNo": "9158829108"
+    },
+    {
+      "clientId": 302,
+      "clientName": "Koinonia Logistics and Sales, Inc.",
+      "clientLoc": "None",
+      "contactPerson": "Ms. Charlene Rayo",
+      "contactNo": "9158829108",
+      "iAddress": "None"
+    },
+    {
+      "clientId": 303,
+      "clientName": "St. Eloi Pawnshop Operators Inc.",
+      "clientLoc": "Blk 13 Lotus St. TS Cruz Village, Las Piñas",
+      "contactPerson": "Ms. Clarisa",
+      "contactNo": "9071025228",
+      "iAddress": "Blk 13 Lotus St. TS Cruz Village, Las Piñas",
+      "bAddress": "Blk 13 Lotus St. TS Cruz Village, Las Piñas"
+    },
+    {
+      "clientId": 304,
+      "clientName": "CHA Biyaya Trucking Services",
+      "clientLoc": "Purok 3 Bilad, Camiling Tarlac",
+      "contactPerson": "Conrado Aquino",
+      "contactNo": "9279312817",
+      "tin": "123-013-624-00001"
+    },
+    {
+      "clientId": 305,
+      "clientName": "CHA MYP Agri Ventures Inc.",
+      "clientLoc": "7310 Bacood Tambubong San Rafael Bulacan (near NIA)",
+      "contactPerson": "Sol Petines",
+      "contactNo": "9189450829"
+    },
+    {
+      "clientId": 306,
+      "clientName": "CHA ARKJ Trucking Services",
+      "clientLoc": "Baltazar Subdivision Poblacion Norte Paniqui, Tarlac",
+      "contactPerson": "Kenneth Justine Amurao",
+      "contactNo": "9954726691"
+    },
+    {
+      "clientId": 307,
+      "clientName": "Arrow Strong Haul Systems Inc. ",
+      "clientLoc": "Lot 4 Block 2A Muralla Industrial Park Perez, Meycauayan Bulacan",
+      "contactPerson": "Raymond Sanites",
+      "contactNo": "9215908130",
+      "iAddress": "Lot 4 Block 2A Muralla Industrial Park Perez, Meycauayan Bulacan"
+    },
+    {
+      "clientId": 308,
+      "clientName": "ANUPOL HARDWARE AND LUMBER INC.",
+      "clientLoc": "ANUPOL GARAGE, MAY IBA TERESA RIZAL ",
+      "contactPerson": "ROMEO MORENO",
+      "contactNo": "9166659104",
+      "iAddress": "May Iba, Buhay na tubig Teresa Rizal",
+      "tin": "480-684-212-000"
+    },
+    {
+      "clientId": 309,
+      "clientName": "Teverga Electrical Services (TESI) Inc.",
+      "clientLoc": " 677 G. Ouano Street Cambaro Mandaue City Cebu",
+      "contactPerson": "Francisco C, Jarque",
+      "contactNo": "9209505028",
+      "tin": "747-728-400-000"
+    },
+    {
+      "clientId": 310,
+      "clientName": "RYTMATCH LOGISTICS INC GARAGE",
+      "clientLoc": "003 Cemex Road Solid Cement Barangay San Jose Antipolo City",
+      "contactPerson": "Mytz Kayvine Santiago",
+      "contactNo": "9271341411"
+    },
+    {
+      "clientId": 311,
+      "clientName": " RJAC CONSTRUCTION TRUCKING \u0026 EQUIPMENT RENTAL CORP.",
+      "clientLoc": "24 Puting Bato - Solid Cement Road, Antipolo, 1870",
+      "contactPerson": " Redentor Dela Cruz",
+      "contactNo": "9552506912",
+      "tin": "009-296-464-000"
+    },
+    {
+      "clientId": 312,
+      "clientName": "Bulk Flour Haulers Corporation",
+      "clientLoc": "8442 A. Sandoval Ave. Pinagbuhatan Pasig City",
+      "contactPerson": "Michel Legria",
+      "contactNo": "9369987037",
+      "tin": "209-815-528-000"
+    },
+    {
+      "clientId": 313,
+      "clientName": "CEMEX Phils.",
+      "clientLoc": "None",
+      "contactPerson": "⁨Ronnie Delas Alas⁩",
+      "contactNo": "9178673112"
+    },
+    {
+      "clientId": 314,
+      "clientName": "Acro Distribution Network Inc. ",
+      "clientLoc": "Acro Yard, Solid Cement Antipolo",
+      "contactPerson": "Melai Cordero ",
+      "contactNo": "9555603707",
+      "iAddress": "Acro Yard, Solid Cement Antipolo"
+    },
+    {
+      "clientId": 315,
+      "clientName": "Mr. Basil Castaño",
+      "contactPerson": "Mr. Basil Castaño",
+      "contactNo": "9175411195",
+      "iAddress": "One Parkade, BGC",
+      "bAddress": "PO Box 88, UP Diliman Post Office, 1101 Quezon City"
+    },
+    {
+      "clientId": 316,
+      "clientName": "Assurgent Haulers Inc. ",
+      "clientLoc": "Solid Plant, Antipolo Rizal",
+      "contactPerson": "Mr. Ronel Quirino",
+      "contactNo": "9278157038"
+    },
+    {
+      "clientId": 317,
+      "clientName": "J. Gatlabayan Trucking and Trading Inc.",
+      "clientLoc": "Sitio Main Gate Tagbac Brgy. San Jose Antipolo City",
+      "contactPerson": "Mr. Peter Camba",
+      "contactNo": "9673716382"
+    },
+    {
+      "clientId": 318,
+      "clientName": "Red Dragon",
+      "clientLoc": " #5 Magnesium St. Goldenale Village 1 Tinajeros Malabon City",
+      "contactPerson": "Sir Charlie",
+      "contactNo": "9467430161"
+    },
+    {
+      "clientId": 319,
+      "clientName": "Great Sierra Development Corp.",
+      "clientLoc": "Solid Cement, Antipolo Rizal",
+      "contactPerson": "Mr. Dunhill Ng",
+      "contactNo": "9177151191"
+    },
+    {
+      "clientId": 320,
+      "clientName": "DN Fleet Services Inc. ",
+      "clientLoc": "Puting Bato Solid Cement Road, Antipolo Rizal",
+      "contactPerson": "Ms. Joy Castelo",
+      "contactNo": "9304294726"
+    },
+    {
+      "clientId": 321,
+      "clientName": "A.L. Ruiz Corporation",
+      "clientLoc": "117-A E. RODRIGUEZ AVE, MAY-IBA, TERESA, RIZAL 1880",
+      "contactPerson": "Sir Allan Alarcos",
+      "contactNo": "9165204216",
+      "bAddress": "117-A E. RODRIGUEZ AVE, MAY-IBA, TERESA, RIZAL 1880",
+      "tin": "007-635-854-000"
+    },
+    {
+      "clientId": 322,
+      "clientName": "Murcielago Transport Services",
+      "clientLoc": "Bacolor Pampanga",
+      "contactPerson": "Mr. Jonathan",
+      "contactNo": "9052685473"
+    },
+    {
+      "clientId": 323,
+      "clientName": "5C Young Cargo Corp.",
+      "clientLoc": "Rosa St. Tabaco City, Albay",
+      "contactPerson": "Mr. Jun Chua Jr.",
+      "contactNo": "9688300788"
+    },
+    {
+      "clientId": 324,
+      "clientName": "RVM Cargo Logistics",
+      "clientLoc": "Solid Plant",
+      "contactPerson": "Mr. Shierwen Perey",
+      "contactNo": "9263860137"
+    },
+    {
+      "clientId": 325,
+      "clientName": "FCE Trucking and General Services Inc.",
+      "clientLoc": "Brgy. Loboc, Lapuz Iloilo City",
+      "contactPerson": "Ms. Angie Apolinario",
+      "contactNo": "9989803649"
+    },
+    {
+      "clientId": 326,
+      "clientName": "Regina Shipping Lines",
+      "clientLoc": "Tabaco Port, Tabaco, Albay",
+      "contactPerson": "Mr. Jonnel Pahuyo ",
+      "contactNo": "9517063734"
+    },
+    {
+      "clientId": 327,
+      "clientName": "YCB Trucking Services",
+      "clientLoc": "1093 Barangay Marulas Centennial Road Kawit Cavite (Landmark: Infront of Power Megamix)",
+      "contactPerson": "Ms. Jaffrey Anne Baccay",
+      "contactNo": "9178907634"
+    },
+    {
+      "clientId": 328,
+      "clientName": "GALLANTRY SECURITY \u0026 INVESTIGATION AGENCY INC",
+      "clientLoc": "MCV Bldg. 888 Banawe St., Brgy Sienna, Quezon City ",
+      "contactPerson": "Rosa Del Rio",
+      "contactNo": "9088115908"
+    },
+    {
+      "clientId": 329,
+      "clientName": "Cross-link electric const. Corp",
+      "clientLoc": "CLIMC Bldg, Daang Hari Road, Verdana Village Center, Molino, Bacoor, Cavite ",
+      "contactPerson": "Ms. Genevie Alapad",
+      "contactNo": "9175315248"
+    },
+    {
+      "clientId": 330,
+      "clientName": "CHA Mia\u0027s Trucking",
+      "clientLoc": "808 San Pascual Talavera Nueva Ecija",
+      "contactPerson": "Glenn Polilio",
+      "contactNo": "9171385983"
+    },
+    {
+      "clientId": 331,
+      "clientName": "CEMEX - Commercial Cars",
+      "clientLoc": "Cemex Makati",
+      "contactPerson": "Mr. Marlon",
+      "contactNo": "9338523743"
+    },
+    {
+      "clientId": 332,
+      "clientName": "A.B.R Trucking Services",
+      "clientLoc": "Baltazar Subdivision Poblacion Norte Paniqui, Tarlac",
+      "contactPerson": "Kenneth Justine Amurao",
+      "contactNo": "9954726691"
+    },
+    {
+      "clientId": 333,
+      "clientName": "BAC Gold Transport Express Inc. ",
+      "clientLoc": "Puting Bato, Solid Cement Road Antipolo Rizal",
+      "contactPerson": "Sherwin Tolentino",
+      "contactNo": "9338682292"
+    },
+    {
+      "clientId": 334,
+      "clientName": "Pathfinders Hauling Services",
+      "clientLoc": "2220 Palmario Compound, Lamesa Street Ugong, Valenzuela City",
+      "contactPerson": "Danilo E. Naga",
+      "contactNo": "9395545132",
+      "iAddress": "2220 Palmario Compound, Lamesa Street Ugong, Valenzuela City",
+      "bAddress": "2220 Palmario Compound, Lamesa Street Ugong, Valenzuela City"
+    },
+    {
+      "clientId": 335,
+      "clientName": "Acro Distribution and Logistics, Inc.",
+      "clientLoc": "Sta.Rosa, Nueva Ecija",
+      "contactPerson": "Mark Medallo",
+      "contactNo": "9088154460"
+    },
+    {
+      "clientId": 336,
+      "clientName": "Architecture 1 Construction",
+      "clientLoc": "30 Oakville cor. Whitefield, White Plains, Q.C.",
+      "contactPerson": "Arch. Rap Lopez",
+      "contactNo": "9178966378"
+    },
+    {
+      "clientId": 337,
+      "clientName": "Mr. Manuel Pueblo",
+      "clientLoc": "Motech, Las Piñas",
+      "contactPerson": "Mr. Manuel Pueblo",
+      "contactNo": "9175100916"
+    },
+    {
+      "clientId": 338,
+      "clientName": "First Ambassador Logistics Solutions Inc.,",
+      "clientLoc": "Unit 3A Sunblest Compound, Km. 23 West Service Road, Cupang, Muntinlupa",
+      "contactPerson": "Ms. Kaye",
+      "contactNo": "9171791253",
+      "bAddress": "Unit 3A Sunblest Compound, Km. 23 West Service Road, Cupang, Muntinlupa",
+      "tin": "8643-6134"
+    },
+    {
+      "clientId": 339,
+      "clientName": "Arch. Fernando Raphael F. Lopez",
+      "clientLoc": "30 Oakville cor. Whitefield, White Plains, Q.C.",
+      "contactPerson": "Mr. Fernando Raphael F. Lopez",
+      "contactNo": "9178966378",
+      "iAddress": "30 Oakville cor. Whitefield, White Plains, Q.C.",
+      "bAddress": "30 Oakville cor. Whitefield, White Plains, Q.C.",
+      "tin": "244 904 710 000"
+    },
+    {
+      "clientId": 340,
+      "clientName": "CEMEX Holdings Philippines Inc. ",
+      "contactPerson": "Mr. Ruben Beig Jr.",
+      "contactNo": "9178187346"
+    },
+    {
+      "clientId": 341,
+      "clientName": "R.D.Y. Trucking",
+      "clientLoc": " Gubat St., Baranggay Buenavista  Sta Maria, Bulacan",
+      "contactPerson": "Rica Ortiz",
+      "contactNo": "9993269444",
+      "iAddress": " Gubat St., Baranggay Buenavista  Sta Maria, Bulacan",
+      "bAddress": "305 Dumalay St. Brgy. Santa Monica, Novaliches Quezon City. ",
+      "tin": "430-975-256-00000"
+    },
+    {
+      "clientId": 342,
+      "clientName": "JW Trucking and Logistic Services Inc. ",
+      "clientLoc": "Roman Roxas Rd. Brgy. May-Iba Teresa, Rizal",
+      "contactPerson": "Ms. Jonah Roldan",
+      "contactNo": "9338107285",
+      "iAddress": "Roman Roxas Rd. Brgy. May-Iba Teresa, Rizal",
+      "tin": "008-921-011-000"
+    },
+    {
+      "clientId": 343,
+      "clientName": "RM and SIBS AGRI TRADING AND SERVICES INC",
+      "clientLoc": "Sitio Ibayo, Liciada, Bustos, Bulacan 3007",
+      "contactPerson": "Katrina Roque",
+      "contactNo": "9479932520"
+    },
+    {
+      "clientId": 344,
+      "clientName": "Jedjayden Trucking Services",
+      "clientLoc": "Mc Arthur Hi-way, San Antonio, Gerona Tarlac",
+      "contactPerson": "Monaco Eclar",
+      "contactNo": "9171398270"
+    },
+    {
+      "clientId": 345,
+      "clientName": "NextGen Innovations Phils. Inc.",
+      "clientLoc": "Unit 206 South Gate Bldg. Finance St. Madrigal Business Park, Ayala Alabang",
+      "contactPerson": "Ms. Vernelisa Malabanan",
+      "contactNo": "9914017907",
+      "iAddress": "Unit 206 South Gate Bldg. Finance St. Madrigal Business Park, Ayala Alabang",
+      "bAddress": "Unit 206 South Gate Bldg. Finance St. Madrigal Business Park, Ayala Alabang",
+      "tin": "008-268-629-000"
+    },
+    {
+      "clientId": 346,
+      "clientName": "Romared Fuel OPC",
+      "clientLoc": "003 Tibag Pulilan Bulacan",
+      "contactPerson": "Ms. Mona",
+      "contactNo": "9175424840"
+    },
+    {
+      "clientId": 347,
+      "clientName": "Thick and Thin Agriproducts, Inc.",
+      "clientLoc": "148 Sitio Bisita Brgy Duhat Bocaue Bulacan",
+      "contactPerson": "Sir Mhar Christian Donesa\t\t",
+      "contactNo": "9176346872"
+    },
+    {
+      "clientId": 348,
+      "clientName": "MCH Ortega Trucking",
+      "clientLoc": "Brgy. Bunggo Calamba, Laguna",
+      "contactPerson": "Ms. ",
+      "contactNo": "9"
+    },
+    {
+      "clientId": 349,
+      "clientName": "Ms. Mia Imelda Lozada",
+      "clientLoc": "No.68 Ecology Village, GATE 5, Makati City  (beside Alphaland Southgate mall)",
+      "contactPerson": "Ms. Mia Lozada",
+      "contactNo": "9199138889",
+      "iAddress": "No.68 Ecology Village, GATE 5, Makati City  (beside Alphaland Southgate mall)"
+    },
+    {
+      "clientId": 350,
+      "clientName": "Aeiouscinth Trucking Services",
+      "clientLoc": "Musni, San Jose, San Luis Pampanga",
+      "contactPerson": "Ezekiel B. Dela Rosa",
+      "contactNo": "0917184131"
+    },
+    {
+      "clientId": 351,
+      "clientName": "A.B Noche Trucking Services",
+      "clientLoc": "Sitio Riverside, Brgy. Cawongan, Padre Garcia, Batangas",
+      "contactPerson": "Alvin B. Noche",
+      "contactNo": "9187897849"
+    },
+    {
+      "clientId": 352,
+      "clientName": "Shinjuku Holdings, Inc.",
+      "clientLoc": "4 Marymount La Vista QC",
+      "contactPerson": "Mr. Renato Peralejo",
+      "contactNo": "9175358941",
+      "iAddress": "4 Marymount La Vista QC",
+      "bAddress": "Innovative Corporate Center 32 F Castillo St., Project 4, Quezon City.",
+      "tin": "009-693-447"
+    },
+    {
+      "clientId": 353,
+      "clientName": "Transpoint Movers, Inc",
+      "clientLoc": "Botika BOIE, Almanza Uno, Alabang Muntinlupa City",
+      "contactPerson": "Mr. Michael Chua",
+      "contactNo": "9918330927",
+      "bAddress": "88 Eulogio Rodriguez Jr. Ave, Bagumbayan, Quezon City, 1110 Metro Manila",
+      "tin": "614-531-031-000"
+    },
+    {
+      "clientId": 354,
+      "clientName": "House Technology Industries PTE., LTD",
+      "clientLoc": "Block 1 Cavite Economic Zone II, Gen. Trias Cavite",
+      "contactPerson": "Ms. Kathrina Calpo",
+      "contactNo": "9"
+    },
+    {
+      "clientId": 355,
+      "clientName": "Pros Marketing",
+      "clientLoc": "Soses Marketing Enterprise, San Jose St, Angeles, Pampanga",
+      "contactPerson": "Sir Glenn So",
+      "contactNo": "9178392832"
+    },
+    {
+      "clientId": 356,
+      "clientName": "Kwinjco Food Manufacturing Corp.",
+      "clientLoc": "10 Woodpecker St. Zabarte Subdivision Baranggay Kaligayahan Quezon City",
+      "contactPerson": "Ms. Yumi De Guzman",
+      "contactNo": "9687108638",
+      "iAddress": "10 Woodpecker St. Zabarte Subdivision Baranggay Kaligayahan Quezon City",
+      "tin": "494-734-914-000"
+    },
+    {
+      "clientId": 357,
+      "clientName": "MADA-PRIME Transport Services",
+      "clientLoc": "Block 3 K Lot 15 Phase II C Kaunlaran Village, Barangay 20, Caloocan City",
+      "contactPerson": "Michael Angelo Abad",
+      "contactNo": "9150054854",
+      "tin": " 621-120-800"
+    },
+    {
+      "clientId": 358,
+      "clientName": "Demo Installation AB Braza \u0026 Co. Inc.",
+      "clientLoc": "LYL Business Industrial Park Governor\u0027s Drive Brgy, Carmona, Cavite",
+      "contactPerson": "Sir Tats Pasilan Jr. ",
+      "contactNo": "9778071007"
+    },
+    {
+      "clientId": 359,
+      "clientName": "MB Eclar Trucking Company",
+      "clientLoc": "PUROK1, SINGAT, GERONA, TARLAC",
+      "contactPerson": "Monaco Eclar",
+      "contactNo": "9171398270"
+    },
+    {
+      "clientId": 360,
+      "clientName": "JMD Agri, Livestock Farm and Supply",
+      "clientLoc": "Las Piñas Peñaranda, Nueva Ecija",
+      "contactPerson": "Jesus Diaz",
+      "contactNo": "9175786858"
+    },
+    {
+      "clientId": 361,
+      "clientName": "Arvin International Marketing Inc",
+      "contactPerson": "Elyza Yap"
+    },
+    {
+      "clientId": 362,
+      "clientName": "Pink Ladder Construction \u0026 Development OPC",
+      "clientLoc": "35 J. Sta Catalina St. Brgy San Juan Morong, Rizal",
+      "contactPerson": "Ms. Zarah Marie Perez ",
+      "contactNo": "9096089260",
+      "iAddress": "35 J. Sta Catalina St. Brgy San Juan Morong, Rizal",
+      "bAddress": "35 J. Sta Catalina St. Brgy San Juan Morong, Rizal",
+      "tin": "010703281"
+    },
+    {
+      "clientId": 363,
+      "clientName": "HG Transport Car Rental",
+      "clientLoc": "14 Doña Justa St. Brgy San Roque Angono Rizal",
+      "contactPerson": "Herdy Garcia Jr. Delo Santos",
+      "contactNo": "9453369956"
+    },
+    {
+      "clientId": 364,
+      "clientName": "Smartbuilt Marketing Corporation",
+      "clientLoc": "Sitio Buhanginan Barrio Tagbac Brgy. San Jose Antipolo City",
+      "contactPerson": "Elvira Dela Cruz",
+      "contactNo": "9258748800",
+      "iAddress": "Sitio Buhanginan Barrio Tagbac Brgy. San Jose Antipolo City",
+      "bAddress": "Sitio Buhanginan Barrio Tagbac Brgy. San Jose Antipolo City",
+      "tin": "008427516000"
+    },
+    {
+      "clientId": 365,
+      "clientName": "LGU City of Ormoc",
+      "clientLoc": "NEW ORMOC CITY HALL",
+      "contactPerson": "Mr. Dennis R. Pesquera",
+      "contactNo": "9672533415"
+    },
+    {
+      "clientId": 366,
+      "clientName": "WWG ALPHA 2022 LTD. CORP",
+      "clientLoc": "210 Santol St. Ayala Alabang Village. Brgy Ayala Alabang 1780, City of Muntinlupa NCR, Fourth District Philippines",
+      "contactPerson": "SUSAN C. MANUEL",
+      "contactNo": "88424046",
+      "tin": "617-667-855-000"
+    },
+    {
+      "clientId": 367,
+      "clientName": "IRP Trucking Services",
+      "clientLoc": "Remulla Drive, Brgy. Sahud Ulan, Tanza Cavite",
+      "contactPerson": "Ismael Q. Pakingan III",
+      "contactNo": "9178436963",
+      "bAddress": "Remulla Drive, Brgy. Sahud Ulan, Tanza Cavite",
+      "tin": "261-433-970-000"
+    },
+    {
+      "clientId": 368,
+      "clientName": "MR. GELFRANCIS BRAZA",
+      "clientLoc": "Guinhawa 4214 TUY BATANGAS PHILIPPINES",
+      "contactPerson": "Sir Gelfrancis Braza",
+      "contactNo": "9307612286",
+      "tin": "270-189-653"
+    },
+    {
+      "clientId": 369,
+      "clientName": "YM Cargo Transport Corp. ",
+      "clientLoc": "510 Honorario Lopez Blvd. Brgy 147, Balut Tondo MNL",
+      "contactPerson": "Ms. Maryland Myrell Samoro",
+      "contactNo": "9171166959",
+      "iAddress": "510 Honorario Lopez Blvd. Brgy 147, Balut Tondo MNL",
+      "bAddress": "510 Honorario Lopez Blvd. Brgy 147, Balut Tondo MNL"
+    },
+    {
+      "clientId": 370,
+      "clientName": "M.A. Ardieta Trucking Services",
+      "clientLoc": "Happy Farm Barangay Makabaclay Gapan city 3105 Nueva Ecija",
+      "contactPerson": "Mark Andrew C. Ardieta",
+      "contactNo": "9915275550",
+      "tin": "220-463-052"
+    },
+    {
+      "clientId": 371,
+      "clientName": "Fernandino Distribution Center Inc",
+      "clientLoc": "Mac Arthur Highway, Del Pilar, City of Sa Fernando Pampanga",
+      "contactPerson": "Jazel Pingol",
+      "contactNo": "9338564188"
+    },
+    {
+      "clientId": 372,
+      "clientName": "Republic Gas Corporation",
+      "clientLoc": "Strata 100 F. Ortigas Pasig City",
+      "contactPerson": "Mr. Mark",
+      "contactNo": "9380634466"
+    },
+    {
+      "clientId": 373,
+      "clientName": "G4 Ricemill Corp.",
+      "clientLoc": "G4 Grains Central Inc., Purok 1, Brgy. Del Rosario, San Fernando Pampanga",
+      "contactPerson": "Genesis Eugene David",
+      "contactNo": "9171581114"
+    },
+    {
+      "clientId": 374,
+      "clientName": "Demo Installation Ramp-s Corp",
+      "clientLoc": "210 Fresno St Corner Leveriza St Pasay City",
+      "contactPerson": "Rebecca R. Phee",
+      "contactNo": "9176228144"
+    },
+    {
+      "clientId": 375,
+      "clientName": "Asahi Group Int\u0027l Corp.",
+      "clientLoc": "Subic Bay Freeport Zone",
+      "contactPerson": "Shukry Hussain",
+      "contactNo": "9692313243"
+    },
+    {
+      "clientId": 376,
+      "clientName": "RAE Estate Builders Corp",
+      "clientLoc": "Northwin Global City, Marilao, Bulacan",
+      "contactPerson": "Ms. Raena Abella",
+      "contactNo": "9189402732"
+    },
+    {
+      "clientId": 377,
+      "clientName": "BISCOM INC.,",
+      "clientLoc": "BISCOM Compound, Brgy. San Vicente, Binalbagan, Negros Occidental",
+      "contactPerson": "Sir Lyle Antiquiera",
+      "contactNo": "9178803254"
+    },
+    {
+      "clientId": 378,
+      "clientName": "Demo Installation EON Bulk Handling Services",
+      "clientLoc": "Capihan Yard - Balubaran St, San Rafael, Bulacan",
+      "contactPerson": "Sir James Allen Lita",
+      "contactNo": "9178884366"
+    },
+    {
+      "clientId": 379,
+      "clientName": "Bacolod SJR Trucking, Inc.",
+      "clientLoc": "Bredco 2 Reclamation Area Bacolod City",
+      "contactPerson": "Mary Ann Paulma",
+      "contactNo": "0905241336"
+    },
+    {
+      "clientId": 380,
+      "clientName": "Metro Rock Inc",
+      "clientLoc": "2 Pio Del Pilar St Corner Katipunan St Brgy Concepcion Uno Marikina City",
+      "contactPerson": "Robby Robles",
+      "contactNo": "9175085271"
+    },
+    {
+      "clientId": 381,
+      "clientName": "GOLDEN GATE MEMORIAL CHAPELS VISAYAS INC",
+      "clientLoc": "2/F NORTH ROAD PLAZA BLDG. LABOGON MANDAUE CITY 1604",
+      "contactPerson": "Sir Jonathan",
+      "contactNo": "639237233"
+    },
+    {
+      "clientId": 382,
+      "clientName": "BID Holdings Inc.",
+      "clientLoc": "L1B3 Andres Compound, F. Legaspi St., Maybunga Pasig",
+      "contactPerson": "Sandy Montas",
+      "contactNo": "9176284144"
+    },
+    {
+      "clientId": 383,
+      "clientName": "Vena Energy",
+      "clientLoc": "21F Tower 6789, ayala ave. Makati City",
+      "contactPerson": "Sharlene Tabanar",
+      "contactNo": "9985866783"
+    },
+    {
+      "clientId": 384,
+      "clientName": "Adrene Trucking Services",
+      "clientLoc": "BRGY IBAYO PRITIL GUIGUINTO BULACAN",
+      "contactPerson": "Irene Ramos",
+      "contactNo": "9153011579"
+    },
+    {
+      "clientId": 385,
+      "clientName": "IRS Hauling Services",
+      "clientLoc": "Carapdapan st. Pob. Norte, Paniqui, Tarlac",
+      "contactPerson": "Mark Suarez",
+      "contactNo": "9504467142"
+    },
+    {
+      "clientId": 386,
+      "clientName": "Nuestalva Development Corporation",
+      "clientLoc": "351 ZONE 3 MAGLIMAN BACOLOR PAMPANGA",
+      "contactPerson": "Desiree Aquino",
+      "contactNo": "9480624687"
+    },
+    {
+      "clientId": 387,
+      "clientName": "ALPHABEL CORPORATION",
+      "clientLoc": "0024ME Bacoor Blvd Brgy. Mambog 4, Bacoor Cavite",
+      "contactPerson": "Ms. Ronnet",
+      "contactNo": "9569831506"
+    },
+    {
+      "clientId": 388,
+      "clientName": "JMZ Customs Brokerage ",
+      "clientLoc": "Mezzanine flr. Wisma Cyberhub Bldg 45 Sen Gil Puyat Ave Brgy Palanan Makati, Philippines",
+      "contactPerson": "Sir Jherick Zshornack",
+      "contactNo": "9688800368"
+    },
+    {
+      "clientId": 389,
+      "clientName": "ITBS Information Technology Business Solutions Corp.",
+      "clientLoc": "7a AEC Commercial Complex, Greenville Subd., OG Road, City of San Fernando Pampanga",
+      "contactPerson": "Rachel Sison",
+      "contactNo": "9157693502",
+      "tin": "007-911-605-00000"
+    },
+    {
+      "clientId": 390,
+      "clientName": "Marconi Plastic Product Inc.",
+      "clientLoc": "\tBlk 27 Lot 5, Global Aseana Business Park 1, Brgy dela Paz and San Isidro, Quezon Road, San Simon Pampanga",
+      "contactPerson": "Imelda Sanuco",
+      "contactNo": "9277830386"
+    },
+    {
+      "clientId": 391,
+      "clientName": "M.A.C.T Enterprises",
+      "clientLoc": "Blk 8, Zamora Street, San Roque Tarlac City",
+      "contactPerson": "Marlyn Tagaro",
+      "contactNo": "9285217283"
+    },
+    {
+      "clientId": 392,
+      "clientName": "Capitol Steel Corporation",
+      "clientLoc": "300 Quirino Highway, Baesa, Quezon City",
+      "contactPerson": "Shem Bernardino",
+      "contactNo": "9173156052",
+      "iAddress": "300 Quirino Highway, Baesa, Quezon City"
+    },
+    {
+      "clientId": 393,
+      "clientName": "SeaBird Transoceanic Inc.",
+      "contactPerson": "Sidney Lim",
+      "contactNo": "9177046148",
+      "bAddress": "5D Muñoz St., Tandang Sora Quezon City"
+    },
+    {
+      "clientId": 394,
+      "clientName": "Ascend Express Logistics Corp",
+      "contactPerson": "Edel Sison",
+      "contactNo": "9174122885"
+    },
+    {
+      "clientId": 395,
+      "clientName": "EA Canlas Trucking Services",
+      "clientLoc": "#01 Provincial Road Sta.Cruz Concepcion Tarlac",
+      "contactPerson": "Sir Ericson",
+      "contactNo": "9363921133"
+    },
+    {
+      "clientId": 396,
+      "clientName": "Ali \u0026 Minerva Trucking Services",
+      "clientLoc": "Bliss Sta. Arcadia, Cabanatuan City, Nueva Ecija",
+      "contactPerson": "Alejandro Nidera",
+      "contactNo": "9164257765"
+    },
+    {
+      "clientId": 397,
+      "clientName": "Gabriqa Logistics Services",
+      "clientLoc": "Purok 1 Magsaysay Street, Brgy. Cruz Victoria Tarlac",
+      "contactPerson": "Ms. Janel",
+      "contactNo": "9173004299"
+    },
+    {
+      "clientId": 398,
+      "clientName": "All Range Movers Corporation",
+      "clientLoc": " 1924 Felix Huertas St, Sta Cruz, Manila",
+      "contactPerson": "Exsor M. Alariao",
+      "contactNo": "9171556022",
+      "iAddress": " 1924 Felix Huertas St, Sta Cruz, Manila"
+    },
+    {
+      "clientId": 399,
+      "clientName": "GTIM Trucking Services ",
+      "clientLoc": "Dorego Village Barangay Lamsugod Surallah South Cotabato",
+      "contactPerson": "Mary Grace Onggo",
+      "contactNo": "9171197693"
+    },
+    {
+      "clientId": 400,
+      "clientName": "JCEN Logistics Corporation",
+      "clientLoc": "SCJ Bldg. J. Abad Santos, Zone III, Koronadal City, South Cotabato",
+      "contactPerson": "Riza Mae Catalan",
+      "contactNo": "9988658942"
+    },
+    {
+      "clientId": 401,
+      "clientName": "SOUTHBEND MANAGEMENT SERVICES, INC.",
+      "clientLoc": "G/F JM2 Bldg., Rockefeller St. cor. South Superhighway San Isidro Makati City ",
+      "contactPerson": "Ms. Ely Casalo",
+      "contactNo": "9694756740"
+    },
+    {
+      "clientId": 402,
+      "clientName": "DDD-B Enterprises",
+      "clientLoc": "Dombat Compound Purok Rakinard, Brgy. Sinawal General Santos",
+      "contactPerson": "Leonardo Bation",
+      "contactNo": "9270726096",
+      "bAddress": "Lot 43 Blk 1 Dad Heights Subdivision City Heights, General Santos City, South Cotabato"
+    },
+    {
+      "clientId": 403,
+      "clientName": "FRB Trucking Services",
+      "clientLoc": "PRK. SAN FRANCISCO, BRGY. SAN ROQUE, KORONADAL CITY",
+      "contactPerson": "Flora Basañes",
+      "contactNo": "9077379708"
+    },
+    {
+      "clientId": 404,
+      "clientName": "Dpaguia Trucking",
+      "contactPerson": "Daniel Paguia",
+      "contactNo": "9171470847"
+    },
+    {
+      "clientId": 405,
+      "clientName": "Grand Canyon Security Services Inc",
+      "clientLoc": "5th Floor MCV Bldg. 888 Banawe St. Quezon City",
+      "contactPerson": "Ms. Rosa Del Rio",
+      "contactNo": "9176260171"
+    },
+    {
+      "clientId": 406,
+      "clientName": "M.V Angeles Trading \u0026 Tire Supply",
+      "contactPerson": "Sir March",
+      "contactNo": "9177751020"
+    },
+    {
+      "clientId": 407,
+      "clientName": "MV Angeles Trading \u0026 Tire Supply",
+      "clientLoc": "2458 Jose Abad Santos Avenue, Sta Cruz, Manila",
+      "contactPerson": "March Mar Angeles",
+      "contactNo": "9177751020",
+      "iAddress": "2458 Jose Abad Santos Avenue, Sta Cruz, Manila",
+      "bAddress": "2458 Jose Abad Santos Avenue, Sta Cruz, Manila",
+      "tin": "103-927-388-000"
+    },
+    {
+      "clientId": 408,
+      "clientName": "Suzara Trucking Services",
+      "clientLoc": "Purok 4 Brgy. Castillo Concepcion Tarlac",
+      "contactPerson": "Jeff Bryan",
+      "contactNo": "9668707316"
+    },
+    {
+      "clientId": 409,
+      "clientName": "LCJ GARMENTS",
+      "clientLoc": "19 LOTE DULONG BAYAN, SANTA MARIA BULACAN NEAR ST. MARY\u0027S HOSPITAL AND BLC CYCLE PARTS.",
+      "contactPerson": "Ms. Janine Dela Cruz",
+      "contactNo": "9178722000"
+    },
+    {
+      "clientId": 410,
+      "clientName": "Charoen Pokhand Foods Philippines Corporation - Bataan",
+      "clientLoc": "#30 Dagohoy St., Pilar Village, San Isidro, City of San Fernando, Pampanga",
+      "contactPerson": "Ms. Hannah",
+      "contactNo": "9154243012"
+    },
+    {
+      "clientId": 411,
+      "clientName": "J.E.L88 Trucking Inc",
+      "contactPerson": "Edsel Lim",
+      "contactNo": "9188811688"
+    },
+    {
+      "clientId": 1411,
+      "clientName": "TRUCK-STAR LOGISTICS CORP.",
+      "clientLoc": "MALABON - AREA OF BYX \u0026 RED DRAGON",
+      "contactPerson": "Ms. Armida",
+      "contactNo": "9"
+    },
+    {
+      "clientId": 1412,
+      "clientName": "J. Corpuz Trucking Services",
+      "clientLoc": "Emilio Vergara Highway, Cabanatuan City, Nueva Ecija",
+      "contactPerson": "Ms. Shiela",
+      "contactNo": "9277182670"
+    },
+    {
+      "clientId": 1413,
+      "clientName": "CM Zafra Logistics Services",
+      "clientLoc": "Isla, Santa Rosa 3101, Nueva Ecija",
+      "contactPerson": "Shiela Lyn Sabangan",
+      "contactNo": "9277182670"
+    },
+    {
+      "clientId": 1414,
+      "clientName": "SCG Logistics Philippines",
+      "clientLoc": "Sitio Sorezo, San Felipe Padre Garcia Batangas",
+      "contactPerson": "Cris Solis",
+      "contactNo": "9063525891"
+    },
+    {
+      "clientId": 1415,
+      "clientName": "J-K Kabsat\u0027s Trucking Services",
+      "clientLoc": " #571 Z-5 Brgy.Kita-Kita San Jose City Nueva Ecija",
+      "contactPerson": "Joselito Bulanadi",
+      "contactNo": "9171782811"
+    },
+    {
+      "clientId": 1416,
+      "clientName": "Sayon-Gonzales Trucking Services",
+      "clientLoc": "Arnaldo street, brgy Manggahan, General Trias Cavite (Landmark: Hans golftel)",
+      "contactPerson": "Ms. Sharmin Gonzales",
+      "contactNo": "9524878625"
+    },
+    {
+      "clientId": 1417,
+      "clientName": "Arvee Trucking Services",
+      "clientLoc": "San Jose San Luis Pampanga",
+      "contactPerson": "Arnolfo M. Cayabyab",
+      "contactNo": "9178222124"
+    },
+    {
+      "clientId": 1418,
+      "clientName": "Mr. Bryan Anderson",
+      "clientLoc": "GB-04 Jemco Complex, C. Raymundo Avenue, Pasig City",
+      "contactPerson": "Mr. Bryan Anderson",
+      "contactNo": "9175579276"
+    },
+    {
+      "clientId": 1419,
+      "clientName": "MP De Leon Trucking Services",
+      "clientLoc": "156 BRGY STA TERESITA STO TOMAS BATANGAS",
+      "contactPerson": "Jennifer De Guzman",
+      "contactNo": "9913758377"
+    },
+    {
+      "clientId": 1420,
+      "clientName": "Carbgill Logistics",
+      "clientLoc": "288 BRGY. SOYUNG, ECHAGUE, ISABELA",
+      "contactPerson": "Rolando Carbonel",
+      "contactNo": "9273147368"
+    },
+    {
+      "clientId": 1421,
+      "clientName": "Formacion Trucking",
+      "clientLoc": "Zone 1 Molugan El Salvador City, Misamis Oriental",
+      "contactPerson": "Jommel Formacion",
+      "contactNo": "9178053259"
+    },
+    {
+      "clientId": 1422,
+      "clientName": "RCPJC Corporation",
+      "clientLoc": "RCPJC Bldg. 442 Salcedo St. Brgy. Salcedo 2, Noveleta, Cavite ",
+      "contactPerson": "Abraham",
+      "contactNo": "639178955",
+      "iAddress": "solid cemex plant",
+      "bAddress": "RCPJC Corporation Name of Billing Recipient: Evangeline T. Caimol ",
+      "tin": "007-567-224-000"
+    },
+    {
+      "clientId": 1423,
+      "clientName": "RICHJPRIME TRUCKING SERVICES ",
+      "clientLoc": "Tonivic, Carmona, Cavite",
+      "contactPerson": "Rene Tristan Cañete",
+      "contactNo": "9277751847"
+    },
+    {
+      "clientId": 1424,
+      "clientName": "BLH Trucking Services",
+      "clientLoc": "Nueva Ecija",
+      "contactPerson": "Reachel Fajardo",
+      "contactNo": "9268251268"
+    },
+    {
+      "clientId": 1425,
+      "clientName": "EON Bulk Handling Services",
+      "clientLoc": " 322 G. Araneta Avenue, Brgy. Dona Imelda, Quezon City",
+      "contactPerson": "Sir PJ Carandang ",
+      "contactNo": "6391788842",
+      "iAddress": "322 G. Araneta Avenue, Brgy. Dona Imelda, Quezon City",
+      "bAddress": "322 G. Araneta Avenue, Brgy. Dona Imelda, Quezon City",
+      "tin": "006-900-880"
+    },
+    {
+      "clientId": 1426,
+      "clientName": "D\u0027Lions Logistics Services",
+      "clientLoc": "7 Tuazon Ave Potrero Malabon City",
+      "contactPerson": "Daimler De Leon",
+      "contactNo": "977697300",
+      "iAddress": "Solid Cement Antipolo Cemex Plant ",
+      "bAddress": "Grand Emerald Tower Ruby St Brgy San Antonio Ortigas Pasig City",
+      "tin": "700-967-925-00000"
+    },
+    {
+      "clientId": 1427,
+      "clientName": "D\u0027Lions Logistics Services",
+      "clientLoc": "7 Tuazon Ave Potrero Malabon City",
+      "contactPerson": "Daimler De Leon",
+      "contactNo": "977697300",
+      "iAddress": "Solid Cement Antipolo Cemex Plant ",
+      "bAddress": "Grand Emerald Tower Ruby St Brgy San Antonio Ortigas Pasig City",
+      "tin": "700-967-925-00000"
+    },
+    {
+      "clientId": 1428,
+      "clientName": "CEJS  Movers",
+      "clientLoc": "19BE Maligaya Street, Sta Cruz, Guiguinto, Bulacan",
+      "contactPerson": "Lizel Sagum",
+      "contactNo": "9171504561"
+    },
+    {
+      "clientId": 1429,
+      "clientName": "JJE Movers Trucking Services",
+      "clientLoc": "Cuayang Bugtong Candaba, Pampanga",
+      "contactPerson": "Lizel Sagum",
+      "contactNo": "9171504561"
+    },
+    {
+      "clientId": 1430,
+      "clientName": "Giant Trucking Services",
+      "clientLoc": "Galas Maasim, San Rafael Bulacan",
+      "contactPerson": "Maria Theresa Lopez",
+      "contactNo": "9166771030"
+    },
+    {
+      "clientId": 1431,
+      "clientName": "EPR Trucking Services",
+      "clientLoc": "588 Proper Gugo, Samal, Bataan",
+      "contactPerson": " EDUARDO P. RUBIO",
+      "contactNo": "0919813722"
+    },
+    {
+      "clientId": 1432,
+      "clientName": "Layola Trucking Services",
+      "clientLoc": " #97 Purok-1 Palili, Samal Bataan",
+      "contactPerson": "Benjamin Layola",
+      "contactNo": "9083701062"
+    },
+    {
+      "clientId": 2431,
+      "clientName": "Moochi Trucking Services",
+      "clientLoc": "Purok Quezon Rang-Ay 9511 Banga, South Cotabato",
+      "contactPerson": "Sherwin Vana",
+      "contactNo": "9639348218"
+    },
+    {
+      "clientId": 2432,
+      "clientName": "CHAROEN POKPHAND FOODS PHILIPPINES CORPORATION - CEBU",
+      "clientLoc": "Barangay Alang-Alang, Mandaue City ",
+      "contactPerson": "Ms. Marifhel Regañon",
+      "contactNo": "9451182786",
+      "tin": "252-135-912-014"
+    },
+    {
+      "clientId": 2433,
+      "clientName": "CSE Freight Forwarder",
+      "clientLoc": "Wakas St. Lalawigan, Samal Bataan",
+      "contactPerson": "Aida Macalinao",
+      "contactNo": "9542479098"
+    },
+    {
+      "clientId": 2434,
+      "clientName": "B.P.S Trucking Services",
+      "clientLoc": "#132 Saldana St. Brgy. San Roque, Samal Bataan",
+      "contactPerson": "Brian Paul Siasat",
+      "contactNo": "9499513306"
+    },
+    {
+      "clientId": 2435,
+      "clientName": "RLN Trading and Trucking",
+      "clientLoc": "Purok 1-C  Concepcion,Lubao Pampanga",
+      "contactPerson": "Enrique G. Manalansan",
+      "contactNo": "9228159692"
+    },
+    {
+      "clientId": 2436,
+      "clientName": "Dreamer Logistics Services",
+      "clientLoc": " Purok Yakal Brgy. Lourdes Cabanatuan City, Nueva Ecija",
+      "contactPerson": "Maricel S. Villareal",
+      "contactNo": "9770277910"
+    },
+    {
+      "clientId": 2437,
+      "clientName": "FTA Trucking Services",
+      "clientLoc": "21 Lucas st San Fermi Cauayan City Isabela",
+      "contactPerson": "Frederick Apostol",
+      "contactNo": "9175989988"
+    },
+    {
+      "clientId": 2438,
+      "clientName": "IMV Trucking Services",
+      "clientLoc": "Blk. 1 Brgy. Estrada, Capas, Tarlac",
+      "contactPerson": " Ivy Feliciano",
+      "contactNo": "9952263071"
+    },
+    {
+      "clientId": 2439,
+      "clientName": "Sabariaga Holdings Corp",
+      "clientLoc": "#8 San Roque, San Rafael Bulacan",
+      "contactPerson": "Sir Max",
+      "contactNo": "9189019049"
+    },
+    {
+      "clientId": 2440,
+      "clientName": "MHP Trucking",
+      "clientLoc": "Rail Road St. Poblacion Peñaranda, Nueva Ecija",
+      "contactPerson": "Ronald Padilla",
+      "contactNo": "9338648160"
+    },
+    {
+      "clientId": 2441,
+      "clientName": "R.A Trucking Services",
+      "clientLoc": "Baltazar Subd. Poblacion Norte paniqui, Tarlac",
+      "contactPerson": "Kenneth Justine Amurao",
+      "contactNo": "9954726691"
+    },
+    {
+      "clientId": 2442,
+      "clientName": "KJA Trucking Services",
+      "clientLoc": "Baltazar Subd. Poblacion Norte paniqui, Tarlac",
+      "contactPerson": "Kenneth Justine Amurao",
+      "contactNo": "9954726691"
+    },
+    {
+      "clientId": 2443,
+      "clientName": "JA Gonzales Trading",
+      "clientLoc": "JA GONZALES TRADING, Amvel paranaque, Parañaque, 1740 Metro Manila",
+      "contactPerson": "Jerome Gonzales",
+      "contactNo": "9054302888",
+      "iAddress": "JA GONZALES TRADING, Amvel paranaque, Parañaque, 1740 Metro Manila",
+      "bAddress": "JA GONZALES TRADING, Amvel paranaque, Parañaque, 1740 Metro Manila",
+      "tin": "500973828000"
+    },
+    {
+      "clientId": 2444,
+      "clientName": "RLL CARGOMOVERS TRUCKING SERVICES",
+      "clientLoc": "Hernandez Compound Sepa St. Tullahan Road Caloocan",
+      "contactPerson": "Lester Herrera",
+      "contactNo": "9672432266"
+    },
+    {
+      "clientId": 2445,
+      "clientName": "Jak-Golden Freight Forwarding Services",
+      "clientLoc": "Purok 9 Paradise Brgy Mabuhay General Santos City",
+      "contactPerson": "Joseph Grado",
+      "contactNo": "9439085788"
+    },
+    {
+      "clientId": 2446,
+      "clientName": "TKHS Haulage Incorporated",
+      "clientLoc": "Unit 1005, 10Fl, Aseana 2 Building, Bradco Ave, Parañaque, Metro Manila",
+      "contactPerson": "Ian Funtanar",
+      "contactNo": "0917515332",
+      "iAddress": "April 04,2024"
+    },
+    {
+      "clientId": 2447,
+      "clientName": "Ramp-s Corp",
+      "clientLoc": "210 Fresno St. Cor Leveriza St Pasay City",
+      "contactPerson": "Rebecca Ressureccion Phee",
+      "contactNo": "9176228144",
+      "iAddress": "210 Fresno St. Cor Leveriza St Pasay City",
+      "bAddress": "F#1 LAURA ST. BAGUMBAYAN  TAGUIG CITY",
+      "tin": "008-376-071-000"
+    },
+    {
+      "clientId": 2448,
+      "clientName": "Adonis Agricultural Farm",
+      "clientLoc": "Mc Arthur highway brgy,Paraiso, Tarclac city,Tarlac 2300",
+      "contactPerson": "Ms.Via Gutierrez",
+      "contactNo": "9688964186"
+    },
+    {
+      "clientId": 2449,
+      "clientName": "DEMO SPX Express",
+      "clientLoc": "SPX SOC 8 Silangan Industrial Park Rd, Calamba, 4027 Laguna",
+      "contactPerson": "Adrian Padugar"
+    },
+    {
+      "clientId": 2450,
+      "clientName": "SUV Trucking Services",
+      "clientLoc": "San Fermin Cauayan, Isabela",
+      "contactPerson": "Sammer Valcos",
+      "contactNo": "9355494490"
+    },
+    {
+      "clientId": 2451,
+      "clientName": "A AND M ELITE AVIATION INTERNATIONAL CORP.",
+      "clientLoc": "Hangar N7269, General Aviation, Civil Aviation Complex, Clark Freeport Zone, Pampanga, Philippines",
+      "contactPerson": "Joseph Espiritu",
+      "contactNo": "9988404693",
+      "iAddress": "Hangar N7269, General Aviation, Civil Aviation Complex, Clark Freeport Zone, Pampanga, Philippines",
+      "bAddress": "2F PIECO Bldg, 2242 Chino Roces Avenue, Bangkal 1233 City of Makati Fourth District National CAPITAL REGION (NCR), Philippines",
+      "tin": "602787414"
+    },
+    {
+      "clientId": 2452,
+      "clientName": "Marcos R de Guzman ",
+      "clientLoc": "17 Maranaw St., La Vista, QC",
+      "contactPerson": "Marcos R de Guzman ",
+      "contactNo": "9178353224",
+      "iAddress": "February 04,2026",
+      "bAddress": "10 kahandahan st kawilihan village, bagong ilog pasig"
+    },
+    {
+      "clientId": 2453,
+      "clientName": "Mr. Arven Jay de Vera",
+      "contactPerson": "Sir Arven",
+      "contactNo": "9209586787"
+    }
+  ]
+}

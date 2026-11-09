@@ -1,0 +1,365 @@
+{
+  "Technicians": [
+    {
+      "techId": 1,
+      "techName": "Joemary Burias",
+      "tcontactNo": "9989906274",
+      "tBday": "1983-02-10T00:00:00",
+      "tRestday": "7",
+      "tHiringdate": "2012-07-01T00:00:00",
+      "isDeleted": true
+    },
+    {
+      "techId": 2,
+      "techName": "Kevin Villanueva",
+      "tcontactNo": "9989906276",
+      "tBday": "1992-04-25T00:00:00",
+      "tRestday": "4",
+      "tHiringdate": "2018-03-22T00:00:00",
+      "isDeleted": true
+    },
+    {
+      "techId": 3,
+      "techName": "Adan Pena",
+      "tcontactNo": "9989906280",
+      "tBday": "1994-10-24T00:00:00",
+      "tRestday": "2",
+      "tHiringdate": "2018-03-22T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "techId": 4,
+      "techName": "Erwin Fordan Quinton",
+      "tcontactNo": "9997031853",
+      "tBday": "1995-03-23T00:00:00",
+      "tRestday": "7",
+      "tHiringdate": "2018-03-22T00:00:00",
+      "isDeleted": true
+    },
+    {
+      "techId": 5,
+      "techName": "Jhoven S. Joven",
+      "tcontactNo": "9473288949",
+      "tBday": "1994-07-27T00:00:00",
+      "tRestday": "7",
+      "tHiringdate": "2018-03-22T00:00:00",
+      "isDeleted": true
+    },
+    {
+      "techId": 6,
+      "techName": "John Aldea",
+      "tcontactNo": "9154602921",
+      "tBday": "1986-09-14T00:00:00",
+      "tRestday": "7",
+      "tHiringdate": "2018-03-22T00:00:00",
+      "isDeleted": true
+    },
+    {
+      "techId": 7,
+      "techName": "Ronjay Feruelo dela Torre",
+      "tcontactNo": "9776274677",
+      "tBday": "1997-12-03T00:00:00",
+      "tRestday": "1",
+      "tHiringdate": "2018-03-22T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "techId": 8,
+      "techName": "Jonald Grospe",
+      "tcontactNo": "9264155950",
+      "tBday": "1987-05-02T00:00:00",
+      "tRestday": "7",
+      "tHiringdate": "2018-03-22T00:00:00",
+      "isDeleted": true
+    },
+    {
+      "techId": 11,
+      "techName": "Richard Constantino",
+      "tcontactNo": "9999999999",
+      "tRestday": "7",
+      "isDeleted": true
+    },
+    {
+      "techId": 13,
+      "techName": "Sammy A. Mananghaya",
+      "tcontactNo": "9454685351",
+      "tBday": "1997-09-23T00:00:00",
+      "tRestday": "6",
+      "tHiringdate": "2018-05-21T00:00:00",
+      "isDeleted": true
+    },
+    {
+      "techId": 14,
+      "techName": "Raymart Kevin Hernal",
+      "tcontactNo": "9360219446",
+      "tBday": "1998-01-21T00:00:00",
+      "tRestday": "2",
+      "isDeleted": true
+    },
+    {
+      "techId": 15,
+      "techName": "Glen Martin Torres",
+      "tcontactNo": "9751290421",
+      "tRestday": "7",
+      "isDeleted": true
+    },
+    {
+      "techId": 16,
+      "techName": "John Paul Ramos",
+      "tcontactNo": "9265505772",
+      "tBday": "1997-11-14T00:00:00",
+      "tRestday": "6",
+      "tHiringdate": "2018-06-05T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "techId": 17,
+      "techName": "Leo Comendador",
+      "tcontactNo": "9656271573",
+      "tBday": "1997-06-22T00:00:00",
+      "tRestday": "4",
+      "tHiringdate": "2018-06-05T00:00:00",
+      "isDeleted": true
+    },
+    {
+      "techId": 18,
+      "techName": "Raymond V. Oliveros",
+      "tcontactNo": "9773614038",
+      "tBday": "1998-03-21T00:00:00",
+      "tRestday": "7",
+      "tHiringdate": "2018-06-04T00:00:00",
+      "isDeleted": true
+    },
+    {
+      "techId": 19,
+      "techName": "Joshua C. Baldoviso",
+      "tcontactNo": "9476903376",
+      "tBday": "1994-06-20T00:00:00",
+      "tRestday": "7",
+      "tHiringdate": "2018-06-11T00:00:00",
+      "isDeleted": true
+    },
+    {
+      "techId": 20,
+      "techName": "Michael Miguela",
+      "tcontactNo": "9497865753",
+      "tRestday": "2",
+      "isDeleted": true
+    },
+    {
+      "techId": 21,
+      "techName": "Adrian Granado",
+      "tcontactNo": "9358231477",
+      "tRestday": "3",
+      "isDeleted": true
+    },
+    {
+      "techId": 22,
+      "techName": "Fedemar Lumain",
+      "tcontactNo": "9261945138",
+      "tRestday": "4",
+      "tHiringdate": "2018-12-11T14:29:00",
+      "isDeleted": true
+    },
+    {
+      "techId": 23,
+      "techName": "Janh Mark C. Sonza",
+      "tcontactNo": "9085503051",
+      "tRestday": "7",
+      "tHiringdate": "2018-12-12T08:16:00",
+      "isDeleted": false
+    },
+    {
+      "techId": 24,
+      "techName": "Rouhan Geze",
+      "tcontactNo": "9677269518",
+      "tRestday": "7",
+      "isDeleted": false
+    },
+    {
+      "techId": 25,
+      "techName": "Frederick M. Villaruel",
+      "tcontactNo": "9472882988",
+      "tRestday": "4",
+      "isDeleted": false
+    },
+    {
+      "techId": 26,
+      "techName": "Melcarl John Bautista",
+      "tcontactNo": "9369648727",
+      "tRestday": "3",
+      "isDeleted": true
+    },
+    {
+      "techId": 27,
+      "techName": "Mark Anthony S. Agustin",
+      "tcontactNo": "9999999999",
+      "tRestday": "7",
+      "isDeleted": true
+    },
+    {
+      "techId": 28,
+      "techName": "Charlie Sigasig",
+      "tcontactNo": "9212786306",
+      "tRestday": "7"
+    },
+    {
+      "techId": 29,
+      "techName": "Jonnel M. Bongon",
+      "tcontactNo": "9999999999",
+      "tRestday": "7",
+      "isDeleted": false
+    },
+    {
+      "techId": 30,
+      "techName": "John Jove J. Fabian",
+      "tcontactNo": "9999999999",
+      "tRestday": "7",
+      "isDeleted": true
+    },
+    {
+      "techId": 31,
+      "techName": "Edward M. Zamora",
+      "tcontactNo": "9999999999",
+      "tRestday": "7",
+      "isDeleted": false
+    },
+    {
+      "techId": 32,
+      "techName": "Charlie P. Sgasig",
+      "tcontactNo": "9212786306",
+      "tRestday": "7",
+      "isDeleted": true
+    },
+    {
+      "techId": 33,
+      "techName": "John Mark Bombales",
+      "tcontactNo": "9569160205",
+      "tBday": "1997-10-11T14:40:00",
+      "tRestday": "7",
+      "tHiringdate": "2019-07-26T14:39:00",
+      "isDeleted": true
+    },
+    {
+      "techId": 34,
+      "techName": "Jayson Atag",
+      "tcontactNo": "9463925537",
+      "tBday": "1998-02-15T14:42:00",
+      "tRestday": "7",
+      "tHiringdate": "2019-07-26T14:42:00",
+      "isDeleted": false
+    },
+    {
+      "techId": 35,
+      "techName": "Ruelito Dimailig",
+      "tcontactNo": "9999999999",
+      "tBday": "2019-09-04T00:00:00",
+      "tRestday": "7",
+      "tHiringdate": "2019-09-04T00:00:00"
+    },
+    {
+      "techId": 36,
+      "techName": "Nikkie Taco",
+      "tcontactNo": "9999999999",
+      "tBday": "2019-09-25T11:24:00",
+      "tRestday": "7",
+      "tHiringdate": "2019-09-04T11:24:00",
+      "isDeleted": true
+    },
+    {
+      "techId": 37,
+      "techName": "Joselito Hugo",
+      "tcontactNo": "9156800644",
+      "tBday": "1993-02-08T00:00:00",
+      "tRestday": "7",
+      "tHiringdate": "2019-08-14T00:00:00"
+    },
+    {
+      "techId": 38,
+      "techName": "Ruelito Dimailig",
+      "tcontactNo": "9235139602",
+      "tBday": "1991-01-11T14:19:00",
+      "tRestday": "7",
+      "tHiringdate": "2019-08-13T14:19:00",
+      "isDeleted": true
+    },
+    {
+      "techId": 39,
+      "techName": "Joselito Hugo",
+      "tcontactNo": "9156800644",
+      "tBday": "1997-02-08T14:20:00",
+      "tRestday": "7",
+      "tHiringdate": "2019-08-14T14:20:00",
+      "isDeleted": false
+    },
+    {
+      "techId": 40,
+      "techName": "Aquilino Mirador",
+      "tcontactNo": "9167010571",
+      "tBday": "2019-10-21T11:20:00",
+      "tRestday": "7",
+      "tHiringdate": "2019-10-17T11:20:00",
+      "isDeleted": false
+    },
+    {
+      "techId": 41,
+      "techName": "Crizandro Parado",
+      "tcontactNo": "9461209396",
+      "tBday": "2016-12-12T15:08:00",
+      "tRestday": "7",
+      "tHiringdate": "2019-11-04T15:04:00",
+      "isDeleted": false
+    },
+    {
+      "techId": 42,
+      "techName": "John Paul Fundar",
+      "tcontactNo": "9051974787",
+      "tRestday": "7",
+      "isDeleted": false
+    },
+    {
+      "techId": 43,
+      "techName": "Richard T. Manginsay",
+      "tcontactNo": "9076889674",
+      "tBday": "1988-12-20T00:00:00",
+      "tRestday": "7",
+      "tHiringdate": "2020-01-06T00:00:00"
+    },
+    {
+      "techId": 44,
+      "techName": "Richard T. Manginsay",
+      "tcontactNo": "9076889674",
+      "tBday": "1988-12-20T13:37:00",
+      "tRestday": "7",
+      "tHiringdate": "2020-01-06T13:37:00",
+      "isDeleted": false
+    },
+    {
+      "techId": 45,
+      "techName": "Kim Jeriel Ytac",
+      "tcontactNo": "9776851245",
+      "tBday": "1996-10-10T09:26:00",
+      "tRestday": "7",
+      "tHiringdate": "2020-01-22T09:24:00",
+      "isDeleted": true
+    },
+    {
+      "techId": 46,
+      "techName": "Aldrin Jhones O. Bolongan",
+      "tcontactNo": "9058882321",
+      "tBday": "1992-11-21T00:00:00",
+      "tRestday": "2",
+      "tHiringdate": "2020-11-20T10:25:00",
+      "isDeleted": false
+    },
+    {
+      "techId": 47,
+      "techName": "Joemary Burias",
+      "tcontactNo": "9985841173",
+      "tBday": "2023-05-19T16:10:00",
+      "tRestday": "7",
+      "tHiringdate": "2022-09-05T16:10:00",
+      "isDeleted": false
+    }
+  ]
+}

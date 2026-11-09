@@ -1,0 +1,84 @@
+{
+  "Users": [
+    {
+      "userId": 7,
+      "Name": "Reichelle Gonzales",
+      "Password": "0909",
+      "ConfirmPassword": "0909",
+      "Role": "Administrator",
+      "UserName": "wru_reich"
+    },
+    {
+      "userId": 14,
+      "Name": "Lyn",
+      "Password": "042018",
+      "ConfirmPassword": "042018",
+      "Role": "Operator",
+      "UserName": "wru_lyn"
+    },
+    {
+      "userId": 15,
+      "Name": "Teng Sorreta",
+      "Password": "baguio",
+      "ConfirmPassword": "baguio",
+      "Role": "Administrator",
+      "UserName": "wru_teng"
+    },
+    {
+      "userId": 28,
+      "Name": "Kayezelle Ann Ducot",
+      "Password": "529399",
+      "ConfirmPassword": "529399",
+      "Role": "Administrator",
+      "UserName": "wru_kaye"
+    },
+    {
+      "userId": 29,
+      "Name": "Christine Evalle",
+      "Password": "2921",
+      "ConfirmPassword": "2921",
+      "Role": "Operator",
+      "UserName": "wru_tine"
+    },
+    {
+      "userId": 30,
+      "Name": "Joana Patricia Landicho",
+      "Password": "021415",
+      "ConfirmPassword": "021415",
+      "Role": "Operator",
+      "UserName": "wru_pat"
+    },
+    {
+      "userId": 34,
+      "Name": "Angellie Fabellar",
+      "Password": "WRUGelai2025",
+      "ConfirmPassword": "WRUGelai2025",
+      "Role": "Operator",
+      "UserName": "wru_gelai"
+    },
+    {
+      "userId": 35,
+      "Name": "Christian Plaera",
+      "Password": "M@kati0611",
+      "ConfirmPassword": "M@kati0611",
+      "Role": "Operator",
+      "UserName": "wru_christian"
+    },
+    {
+      "userId": 36,
+      "Name": "Dawn Zulueta",
+      "Password": "Dawn1994",
+      "ConfirmPassword": "Dawn1994",
+      "Role": "Operator",
+      "UserName": "wru_dawn"
+    },
+    {
+      "userId": 37,
+      "Name": "Reagan",
+      "Password": "Reagan@2025",
+      "ConfirmPassword": "Reagan@2025",
+      "Role": "Administrator",
+      "UserName": "wru_reagan"
+    }
+  ]
+}

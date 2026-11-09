@@ -1,0 +1,24 @@
+{
+  "gpsStatus": [
+    {
+      "gpsId": 1,
+      "gStatus": "Online"
+    },
+    {
+      "gpsId": 2,
+      "gStatus": "Offline"
+    },
+    {
+      "gpsId": 3,
+      "gStatus": "Temporary Disconnected"
+    },
+    {
+      "gpsId": 4,
+      "gStatus": "Permanently Disconnected"
+    },
+    {
+      "gpsId": 5,
+      "gStatus": "Cancelled"
+    }
+  ]
+}
